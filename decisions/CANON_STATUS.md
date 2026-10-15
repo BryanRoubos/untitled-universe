@@ -15,6 +15,10 @@
 
 - **Elias clothing direction and palette approved (15 October 2026).** Graphite outfit sketch and colored material board are archived in the repository and shown in the concept book; see `characters/ELIAS_VAREK.md`.
 
+## Selected environment visual direction (15 October 2026)
+- **Lower city:** Creator approved the visual direction of a vast, old, poor but alive neighborhood beneath monumental stone arches and viaducts. A grayscale blockout and colored atmosphere study are saved in the repo and displayed in the concept book.
+- **Status:** Visual reference approved; precise geography, construction history, civic structures and how this setting connects to the sibling story remain exploratory, not canon.
+
 ## Working / strongly favored
 - Older, historical-feeling **dark fantasy** rather than a modern-gun post-apocalypse; exact technology undecided.
 - The siblings' serious argument, Elias choosing not to follow, and her disappearance during a subsequent violent event.
