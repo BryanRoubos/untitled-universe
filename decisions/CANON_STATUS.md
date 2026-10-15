@@ -21,6 +21,10 @@
 - Powerful stable institutions/cities alongside ruined and dangerous regions.
 - Elias's previously discussed appearance and outfit (see character document) are an approved visual baseline, but setting-compatible revisions may be needed.
 
+## Strong narrative possibility — pendant (not canon)
+- Elias's existing small circular silver pendant may originally have belonged to his sister and may be the only physical trace of her he found after she disappeared. The creator likes this direction, but it is **not confirmed canon**.
+- The argument, disappearance scene, aftermath, where/how the pendant was found, and its exact engraving or meaning remain unwritten and open. The star-and-crescent design is exploratory only. The parents' whereabouts and fate are unknown; do not infer them from the pendant.
+
 ## Exploring, not canon
 - Reality/time/memory fractures as an explanation for eerie encounters.
 - A city with an official narrative of safety and prosperity that conceals or rationalizes suffering.
