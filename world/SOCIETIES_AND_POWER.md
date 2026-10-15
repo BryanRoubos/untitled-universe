@@ -3,6 +3,8 @@
 **Status: Exploring. No specific city or faction canon yet.**
 
 ## Promising city contrast
+
+**Confirmed spatial relationship (15 October 2026):** The prosperous-looking upper districts and the inhabited lower neighborhoods are physically connected levels of one enormous city. This does not establish a specific government, noble houses, strict class boundaries or the motives of institutions; those remain open. See [World Overview](WORLD_OVERVIEW.md).
 A prosperous center may present itself as safe, civilized and benevolent, with impressive architecture, public ritual and official messaging. People in impoverished districts outside or beneath its privileged spaces face violence and deprivation, but also mutual care and community.
 
 This is a **starting contrast**, not a sufficient plot twist. The city's wealth, political legitimacy, security, and failures must have coherent historical and economic causes.
