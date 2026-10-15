@@ -1,6 +1,8 @@
-# UNTITLED — World Bible
+# Where the Light Falls — World Bible
 
-This is the living source of truth for an original fantasy universe, its characters, stories, and first game. The title is a placeholder.
+This is the living source of truth for **Where the Light Falls**, the first game in an original dark-fantasy world. The wider universe name remains open; UNTITLED is the historical repository working name.
+
+**Confirmed city direction:** the monumental, sunlit upper districts and the inhabited lower districts are part of one enormous, physically connected, vertically layered city. See the [connected city concept](Where%20the%20Light%20Falls.png) and [world overview](world/WORLD_OVERVIEW.md).
 
 ## Contents
 - [Creative rules](CREATIVE_RULES.md)
