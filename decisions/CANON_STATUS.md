@@ -1,7 +1,10 @@
 # Canon Status — Living Tracker
 
 ## Confirmed creative direction
-- **UNTITLED** is a working project title, not a final universe name.
+- **Where the Light Falls** is the creator-approved title of the first game, centered on Elias and Mira Varek.
+- The approved title artwork is `Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
+- The wider universe has **no confirmed name**. **The Hollow Crown** was discussed but set aside because of existing media and game-name overlap.
+- **UNTITLED** remains the repository's historical working name.
 - The universe matters beyond its first game adaptation.
 - The story centers on **Elias Varek** (working name) and the unresolved disappearance of his 17-year-old younger sister, **Mira Varek**.
 - Elias is a compassionate but deeply traumatized young man; his sister was once his reason to keep living.
@@ -48,7 +51,7 @@
 - A playable childhood rooftop memory as prologue or vertical slice.
 
 ## Open questions
-- Name, map, calendar, technology level, and history of the world.
+- Wider-universe name, map, calendar, technology level, and history of the world.
 - Nature, rules and frequency of the supernatural.
 - City name, geography, class structure and institutional motives.
 - Parents' whereabouts and fate; Mira's individual aspirations, agency, and ultimate fate.
