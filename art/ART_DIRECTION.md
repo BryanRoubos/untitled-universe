@@ -33,6 +33,12 @@ The creator favors the possibility that the circular silver pendant belonged to 
 - Approved **visual direction**: huge layered arches, monumental masonry, stacked improvised housing, bustling markets, vulnerable children, cool light from above and warmer human-scale lights below. Avoid glossy photorealism for exploratory sketches; use spare construction lines and rough Photoshop-style painted studies.
 - Not yet canon: city layout, whether every district lies underground, architecture's origin, civic institutions, neighborhood name, or events of the sister's disappearance.
 
+## Hidden children's shelter — approved exploration (15 October 2026)
+- [Hidden Children’s Shelter Storyboard](../Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png): grayscale architectural blockout showing the exterior context, concealed approach, passage, chamber, floor plan and section. Uploaded by the creator and displayed in the website's dedicated **A place only they knew** section.
+- **Visual direction approved:** a small, secret, enclosed childhood refuge in cold, damp old stonework; children attempt to make it cozy with thin blankets, scavenged furnishings, small candles and personal traces, but the hardship remains visible. It must not open directly onto a public walkway.
+- **Access logic:** apparently ordinary storage alcove → loose stones conceal a child-sized gap → low, narrow crawlspace → bend / final approach → enclosed chamber. A high, narrow vent supplies indirect daylight without a clear view inside. Future images should keep this route and the plan/section/interior spatially consistent; the concept drawing is a visual reference, not a construction-ready plan.
+- **Not canon yet:** the exact location in the city, how the children found it, who lived there and when, its historical function, and whether it appears in a specific narrative scene.
+
 ## Small-step visual production workflow
 Work on **one component and one decision at a time**, saving approved outcomes to Markdown and the public concept book:
 1. **Face:** first rough graphite pencil exploration → refined/colored concept. **Completed; Concept 03 approved.**
