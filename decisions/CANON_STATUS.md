@@ -24,9 +24,14 @@
 - They explore a freckled youthful appearance, untidy dark hair tied back, and rough pencil-on-paper draftsmanship matching Elias's sketchbook approach.
 - **Status:** exploratory artwork uploaded and published, **not yet final canon**. Her name and age are confirmed; final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
 
+## Connected city structure — confirmed (15 October 2026)
+- The monumental, sunlit upper districts and the densely inhabited lower districts are parts of **one enormous connected, vertically layered city**, not two unrelated cities. Great arches, bridges, foundations and intermediate inhabited levels physically connect them.
+- The uploaded panoramic concept `Where the Light Falls.png` is a selected visual reference and is displayed in the concept book alongside the title art and lower-city studies.
+- **Not confirmed:** exact city map, name, government, noble houses, cathedral functions, social mobility, construction history, waterfalls or individual architectural features and illustration labels. Inspiration from *Arcane* concerns layered social storytelling, not copying its world.
+
 ## Selected environment visual direction (15 October 2026)
 - **Lower city:** Creator approved the visual direction of a vast, old, poor but alive neighborhood beneath monumental stone arches and viaducts. A grayscale blockout and colored atmosphere study are saved in the repo and displayed in the concept book.
-- **Status:** Visual reference approved; precise geography, construction history, civic structures and how this setting connects to the sibling story remain exploratory, not canon.
+- **Status:** Visual reference approved; precise geography, construction history, civic structures and the neighborhood’s role in the sibling story remain exploratory, not canon.
 
 ## Hidden shelter — selected visual exploration (15 October 2026)
 - The creator likes a **secret, cold, damp children's refuge** within the lower city's massive stonework, made modestly homelike with scavenged bedding, candles and small personal details. It should be enclosed and difficult to discover, not openly visible from bridges or public walkways.
@@ -53,7 +58,7 @@
 ## Open questions
 - Wider-universe name, map, calendar, technology level, and history of the world.
 - Nature, rules and frequency of the supernatural.
-- City name, geography, class structure and institutional motives.
+- City name, precise geography and map, class structure, access between levels and institutional motives.
 - Parents' whereabouts and fate; Mira's individual aspirations, agency, and ultimate fate.
 - Exact violent incident and surviving childhood friends.
 - Main plot beyond the sister search, factions and consequences.
