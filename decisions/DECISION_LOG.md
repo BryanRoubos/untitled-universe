@@ -25,5 +25,7 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 | 2026-10-15 | Creator approved **Where the Light Falls** as the first game's title; wider-universe name remains open after setting aside **The Hollow Crown** | First game title confirmed; universe name open |
 | 2026-10-15 | Creator approved the gold title-art logo with the monumental city, circular emblem and weathered serif lettering; uploaded `Where the Light Falls_ Citadel of Gold.png` | Approved title artwork; displayed on concept-book website |
 
+| 2026-10-15 | Creator established that the monumental upper city and inhabited lower city are one physically connected, vertically layered city; uploaded `Where the Light Falls.png` to illustrate their relationship | Connected city structure confirmed; artwork details and political/social history open |
+
 ## Rule for future entries
 Append: date, decision, rationale, who approved it, affected files, and what remains unresolved. Do not silently rewrite a historical decision.
