@@ -17,6 +17,9 @@ Concept art should resemble actual human-made pencil studies, sketchbook work or
 - **Clothing palette approved:** dirty cream linen shirt, faded charcoal vest, muted gray-brown sash, weathered dark-brown trousers and worn brown leather boots. Textured/material illustration still to do.
 - **Personal items:** Reuse the existing character dossier's pendant, ring, journal and other documented possessions; do not invent new props by default. Their individual art studies come **after** clothing is complete.
 
+## Pendant story exploration — not yet canon (15 October 2026)
+The creator favors the possibility that the circular silver pendant belonged to Elias's missing sister and was the only physical trace of her left after her disappearance. Do not commit to where/how it was found, its engraving, or the meaning of any star-and-crescent motif from an exploratory image. The argument and disappearance scene have not been written, and the parents' fate remains unknown. Story context should precede a finalized pendant design. See `characters/ELIAS_VAREK.md` and `decisions/CANON_STATUS.md`.
+
 ## Clothing artwork archived (15 October 2026)
 - [Rugged Adventurer Outfit Sketch](../Rugged%20Adventurer%20Outfit%20Sketch.png): approved single-view, clothing-only graphite sketch.
 - [Elias Clothing Concept Board](../Elias%20Clothing%20Concept%20Board.png): approved outfit color and fabric/material study.
