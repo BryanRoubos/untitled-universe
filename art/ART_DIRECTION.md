@@ -5,6 +5,9 @@
 ## Desired feeling
 Cinematic, tactile, atmospheric dark fantasy. Dense forests and ruined architecture contrast with human warmth, inviting lights, markets, weather and beautiful vistas. Mystery should be visually suggestive, not constantly explicit.
 
+## Authorship and process credit
+Original pencil concepts and creative direction: **Bryan Roubos** (as described by the creator). The digital pencil-style studies displayed in this repository, and their subsequent color, refinement, and material illustrations, were generated with AI assistance. Credit the original creative work without presenting the AI-generated digital images themselves as physical hand-drawn originals.
+
 ## Visual production style — October 15 feedback
 Concept art should resemble actual human-made pencil studies, sketchbook work or thoughtful digital painting, not a glossy, uniform AI illustration. Favor expressive line weight, believable draftsmanship, imperfect pencil/ink marks, restrained color, and purposeful visual exploration. **Do not place generator instructions, such as "no AI look" or "usable for 3D reference," as text on artwork.** Avoid unnecessary annotations; only use natural in-world or design-relevant notes if genuinely useful.
 
