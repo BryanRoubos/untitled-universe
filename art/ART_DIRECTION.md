@@ -61,3 +61,9 @@ Exact body silhouette, finalized clothing texture treatment, detailed item desig
 
 ## Asset hygiene
 Record creator, license, original URL and allowed uses for every third-party asset. Do not commit huge generated assets or UE project caches to this Markdown repository by default.
+
+## Approved game title art — 15 October 2026
+- **Where the Light Falls** is the approved title of the first game.
+- The creator approved `Where the Light Falls_ Citadel of Gold.png`, a dark title card with weathered gold serif typography, a circular ornamental motif, and monumental ancient city architecture lit by distant warm light.
+- This is approved **title artwork**, not a claim that every depicted architectural feature is canon. The design was AI-generated under the creator's direction and approval.
+- The wider universe remains unnamed; do not use **The Hollow Crown** as its established name.
