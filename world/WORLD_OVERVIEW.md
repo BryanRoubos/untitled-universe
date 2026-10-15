@@ -19,6 +19,12 @@ The creator selected an atmospheric concept of a poor but lively lower-city mark
 - [Early grayscale blockout](../Cavernous%20Monochrome%20Market%20City.png)
 - [Colored atmosphere study](../Gothic%20Undercity%20Beneath%20the%20Viaducts.png)
 
+## Children's hidden shelter — environment exploration (15 October 2026)
+The creator selected a **concealed, cold, enclosed refuge** as a promising visual setting for the children who grew up in the lower city. They have made the damp stone chamber livable with makeshift beds, crates, blankets and candlelight, but it remains sad and uncomfortable. The design study shows a rubble-concealed child-sized entrance in a neglected storage alcove, a low passage with a turn, and a small high vent rather than an exposed opening onto the city.
+
+- [Grayscale hidden-shelter storyboard and blockout](../Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png)
+- **Status:** Approved environment concept direction, **not** final geography, construction plan or story canon. No decision yet on the shelter's origin, occupants, exact position, or connection to the sister's disappearance.
+
 ## Exploration example — not canon
 In a ruined house, Elias hears piano music and meets an old woman who offers tea. Later, a photograph suggests she died decades earlier in a fire. Returning reveals ash, yet her cup remains in his bag. The value is the emotional ambiguity and physical trace, not a preselected explanation.
 
