@@ -13,6 +13,8 @@
 
 - **Elias facial design: Concept 03 approved (15 October 2026).** See `characters/ELIAS_VAREK.md`. Colored study and rough pencil sketch exist but are not yet uploaded as image assets.
 
+- **Elias clothing direction and palette approved (15 October 2026).** Graphite outfit sketch and colored material board are archived in the repository and shown in the concept book; see `characters/ELIAS_VAREK.md`.
+
 ## Working / strongly favored
 - Older, historical-feeling **dark fantasy** rather than a modern-gun post-apocalypse; exact technology undecided.
 - The siblings' serious argument, Elias choosing not to follow, and her disappearance during a subsequent violent event.
