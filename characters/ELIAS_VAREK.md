@@ -10,6 +10,14 @@ Youthful, handsome, slim, pale skin; tired brown eyes; messy medium-length chest
 
 **Continuity flag:** This visual baseline was approved earlier, but the newer historical-fantasy direction may call for a carefully considered costume adaptation. Do not change his recognizable face without approval. **Approved on 15 October 2026:** Concept 03 is the definitive facial design reference. It features a youthful, naturally handsome face, tired brown eyes, slightly oily and unwashed-looking chestnut hair, subtle eyebrow scar, and light uneven stubble. This worn, under-cared-for appearance reflects Elias's limited resources and his tendency to care for others before himself. Grooming may vary across story periods. Two approved visual assets exist in the creative session: the colored Concept 03 character study and a rough graphite first-exploration sketch (side profile and front face). **Image files are stored in this repository:** [Concept character study](../Graphite%20Character%20Study%20Sheet.png) and [early graphite portrait studies](../Graphite%20Portrait%20Studies%20on%20Textured%20Paper.png). They are displayed in the public concept book.
 
+## Clothing design — approved studies (15 October 2026)
+Selected layered outfit: dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers and worn brown leather boots. Practical, repeatedly repaired and inexpensive rather than stylish. Separate from facial design and accessories.
+
+- [First graphite outfit sketch](../Rugged%20Adventurer%20Outfit%20Sketch.png)
+- [Refined color and texture clothing board](../Elias%20Clothing%20Concept%20Board.png)
+
+Next artwork phase: individually explore already documented personal objects (pendant, ring, journal); their final design is not yet approved.
+
 ## Inner life
 Elias experiences severe depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, emotional exhaustion, and difficulty imagining an identity beyond protecting his sister. He has sometimes struggled to want to exist; searching for his missing sister has been his sole reason to keep going.
 
