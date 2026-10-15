@@ -7,6 +7,9 @@ A prosperous center may present itself as safe, civilized and benevolent, with i
 
 This is a **starting contrast**, not a sufficient plot twist. The city's wealth, political legitimacy, security, and failures must have coherent historical and economic causes.
 
+## Lower-city visual direction — selected reference, not final canon
+The first environment pair depicts immense aged arches and viaducts above cramped shelters, market stalls, walkways and warm lights. Poverty is visible, but the district is **alive**: people trade, gather, raise children and look after one another. The presence of vulnerable or homeless children fits the siblings' established community. These are visual studies, not proof of the city's exact engineering, founding history, class system, or the fate of its inhabitants. See the image links in `WORLD_OVERVIEW.md`.
+
 ## Moral design rules
 - Authority figures can sincerely believe their choices preserve civilization.
 - Poor communities are not uniformly virtuous; wealthy communities are not uniformly cruel.
