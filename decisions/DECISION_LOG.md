@@ -20,5 +20,7 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 
 | 2026-10-15 | Archived two graphite portrait studies for Elias’s younger sister and published them in the concept book | Face exploration only; final appearance, name, age and clothing not confirmed |
 
+| 2026-10-15 | Creator explicitly confirmed **Mira Varek**, age **17 at her disappearance**, as Elias Varek's younger sister | Name and age canon; disappearance, parents, fate, and story scenes remain open |
+
 ## Rule for future entries
 Append: date, decision, rationale, who approved it, affected files, and what remains unresolved. Do not silently rewrite a historical decision.
