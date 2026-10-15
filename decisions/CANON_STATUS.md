@@ -2,7 +2,7 @@
 
 ## Confirmed creative direction
 - **Where the Light Falls** is the creator-approved title of the first game, centered on Elias and Mira Varek.
-- The approved title artwork is `Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
+- The approved title artwork is `assets/images/Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
 - The wider universe has **no confirmed name**. **The Hollow Crown** was discussed but set aside because of existing media and game-name overlap.
 - **UNTITLED** remains the repository's historical working name.
 - The universe matters beyond its first game adaptation.
@@ -14,19 +14,19 @@
 - Storytelling should be mature, nuanced, atmospheric, sometimes supernatural, and not relentlessly bleak.
 - Progress should be iterative and achievable by a solo creator.
 
-- **Elias facial design: Concept 03 approved (15 October 2026).** See `characters/ELIAS_VAREK.md`. Colored study and rough pencil sketch exist but are not yet uploaded as image assets.
+- **Elias facial design: Concept 03 approved (15 October 2026).** See `characters/ELIAS_VAREK.md`. Approved concept and early graphite studies are archived in `assets/images/` and displayed on the website.
 
 - **Elias clothing direction and palette approved (15 October 2026).** Graphite outfit sketch and colored material board are archived in the repository and shown in the concept book; see `characters/ELIAS_VAREK.md`.
 
 ## Mira Varek — confirmed identity and facial design exploration (15 October 2026)
 - **Confirmed canon:** Mira Varek is Elias's younger sister, age **17 at her disappearance**. Elias is approximately 23; their age gap is approximately six years.
-- Two uploaded graphite portrait studies are archived: `Graphite Portrait Studies on Aged Paper.png` (front and side) and `Graphite Portrait Study Sheet.png` (multi-angle and facial details).
+- Two uploaded graphite portrait studies are archived: `assets/images/Graphite Portrait Studies on Aged Paper.png` (front and side) and `assets/images/Graphite Portrait Study Sheet.png` (multi-angle and facial details).
 - They explore a freckled youthful appearance, untidy dark hair tied back, and rough pencil-on-paper draftsmanship matching Elias's sketchbook approach.
 - **Status:** exploratory artwork uploaded and published, **not yet final canon**. Her name and age are confirmed; final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
 
 ## Connected city structure — confirmed (15 October 2026)
 - The monumental, sunlit upper districts and the densely inhabited lower districts are parts of **one enormous connected, vertically layered city**, not two unrelated cities. Great arches, bridges, foundations and intermediate inhabited levels physically connect them.
-- The uploaded panoramic concept `Where the Light Falls.png` is a selected visual reference and is displayed in the concept book alongside the title art and lower-city studies.
+- The uploaded panoramic concept `assets/images/Where the Light Falls.png` is a selected visual reference and is displayed in the concept book alongside the title art and lower-city studies.
 - **Not confirmed:** exact city map, name, government, noble houses, cathedral functions, social mobility, construction history, waterfalls or individual architectural features and illustration labels. Inspiration from *Arcane* concerns layered social storytelling, not copying its world.
 
 ## Selected environment visual direction (15 October 2026)

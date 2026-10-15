@@ -18,21 +18,21 @@ A catastrophe or history of disasters may have shaped the world, but the nature 
 
 The upper levels suggest more monumental, prosperous urban spaces; the lower levels include dense, improvised homes, trade, community and hardship. The lower city is not lifeless or inherently morally inferior, and the upper city is not uniformly villainous. The *Arcane* comparison is an inspiration for visual storytelling and social complexity, **not** permission to copy Piltover, Zaun, factions or plot.
 
-- [Connected city overview / visual concept](../Where%20the%20Light%20Falls.png)
-- [Approved title art showing monumental upper architecture](../Where%20the%20Light%20Falls_%20Citadel%20of%20Gold.png)
+- [Connected city overview / visual concept](../assets/images/Where%20the%20Light%20Falls.png)
+- [Approved title art showing monumental upper architecture](../assets/images/Where%20the%20Light%20Falls_%20Citadel%20of%20Gold.png)
 
 **Still open:** City name, precise layout and map, construction history, governing system, nobility or institutional functions, economic structures, access between levels, and whether details such as waterfalls or specific towers in the illustration exist in-world. The image's annotation text is **exploratory**, not automatically canon.
 
 ## First environment exploration — the lower city (15 October 2026)
 The creator selected an atmospheric concept of a poor but lively lower-city market under vast, ancient-looking arches and bridges, together with a simple monochrome architectural blockout. The scale, vertical layering, improvised housing, lantern-lit trade and human warmth are **approved visual inspiration**, not finalized geography or lore. Elias and his sister grew up among vulnerable children in an impoverished urban community; the precise layout of their neighborhood remains open, while its connection to the upper districts is now confirmed.
 
-- [Early grayscale blockout](../Cavernous%20Monochrome%20Market%20City.png)
-- [Colored atmosphere study](../Gothic%20Undercity%20Beneath%20the%20Viaducts.png)
+- [Early grayscale blockout](../assets/images/Cavernous%20Monochrome%20Market%20City.png)
+- [Colored atmosphere study](../assets/images/Gothic%20Undercity%20Beneath%20the%20Viaducts.png)
 
 ## Children's hidden shelter — environment exploration (15 October 2026)
 The creator selected a **concealed, cold, enclosed refuge** as a promising visual setting for the children who grew up in the lower city. They have made the damp stone chamber livable with makeshift beds, crates, blankets and candlelight, but it remains sad and uncomfortable. The design study shows a rubble-concealed child-sized entrance in a neglected storage alcove, a low passage with a turn, and a small high vent rather than an exposed opening onto the city.
 
-- [Grayscale hidden-shelter storyboard and blockout](../Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png)
+- [Grayscale hidden-shelter storyboard and blockout](../assets/images/Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png)
 - **Status:** Approved environment concept direction, **not** final geography, construction plan or story canon. No decision yet on the shelter's origin, occupants, exact position, or connection to the sister's disappearance.
 
 ## Exploration example — not canon

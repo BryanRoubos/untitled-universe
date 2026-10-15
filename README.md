@@ -2,7 +2,16 @@
 
 This is the living source of truth for **Where the Light Falls**, the first game in an original dark-fantasy world. The wider universe name remains open; UNTITLED is the historical repository working name.
 
-**Confirmed city direction:** the monumental, sunlit upper districts and the inhabited lower districts are part of one enormous, physically connected, vertically layered city. See the [connected city concept](Where%20the%20Light%20Falls.png) and [world overview](world/WORLD_OVERVIEW.md).
+**Confirmed city direction:** the monumental, sunlit upper districts and the inhabited lower districts are part of one enormous, physically connected, vertically layered city. See the [connected city concept](assets/images/Where%20the%20Light%20Falls.png) and [world overview](world/WORLD_OVERVIEW.md).
+
+## Repository layout
+- `index.html` — GitHub Pages concept book.
+- `assets/images/` — concept images and approved title art.
+- `characters/`, `world/`, `narrative/`, `game-design/`, `art/` — creative source documents.
+- `decisions/` — canon tracker and decision history.
+- `CREATIVE_RULES.md`, `SESSION_HANDOFF.md` — rules and current handoff.
+
+Store future images in `assets/images/` and update both website and Markdown links. An approved visual direction does not make every illustrated detail canon.
 
 ## Contents
 - [Creative rules](CREATIVE_RULES.md)

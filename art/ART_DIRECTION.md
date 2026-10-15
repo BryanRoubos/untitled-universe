@@ -1,6 +1,6 @@
 # Art Direction and References
 
-**Status:** Tone and Elias's original visual baseline confirmed; first new concept board exploratory, final appearance open.
+**Status:** Tone, Elias's Concept 03 face and clothing direction approved; Mira's portrait studies and world details exploratory.
 
 ## Desired feeling
 Cinematic, tactile, atmospheric dark fantasy. Dense forests and ruined architecture contrast with human warmth, inviting lights, markets, weather and beautiful vistas. Mystery should be visually suggestive, not constantly explicit.
@@ -12,36 +12,36 @@ Original pencil concepts and creative direction: **Bryan Roubos** (as described 
 Concept art should resemble actual human-made pencil studies, sketchbook work or thoughtful digital painting, not a glossy, uniform AI illustration. Favor expressive line weight, believable draftsmanship, imperfect pencil/ink marks, restrained color, and purposeful visual exploration. **Do not place generator instructions, such as "no AI look" or "usable for 3D reference," as text on artwork.** Avoid unnecessary annotations; only use natural in-world or design-relevant notes if genuinely useful.
 
 ## Elias's sister — first facial studies archived (15 October 2026)
-- [Simple side/front pencil exploration](../Graphite%20Portrait%20Studies%20on%20Aged%20Paper.png).
-- [Multi-angle pencil study sheet](../Graphite%20Portrait%20Study%20Sheet.png).
+- [Simple side/front pencil exploration](../assets/images/Graphite%20Portrait%20Studies%20on%20Aged%20Paper.png).
+- [Multi-angle pencil study sheet](../assets/images/Graphite%20Portrait%20Study%20Sheet.png).
 - Both are now displayed in the public concept book's sister section, with click-to-zoom support.
-- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, age, clothing or story implications have been canonized.
+- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, clothing or story implications have been canonized. Mira's name and age (17 at disappearance) are confirmed.
 - **Next step:** obtain explicit approval of her face before creating separate clothing or colored studies.
 
 ## Elias — current approvals (15 October 2026)
 - **Face:** Concept 03 approved: youthful (~23), tired brown eyes, messy slightly oily chestnut hair, light uneven stubble, subtle eyebrow scar. The early graphite face exploration and main concept artwork are already in the repository and displayed in the concept book.
 - **Clothing direction:** The creator selected the simple layered outfit study: worn vest, linen shirt, fabric sash, loose trousers and rugged boots. The rough pencil clothing stage is the current focus; do not add face studies or elaborate character sheets to a clothing-only drawing.
-- **Clothing palette approved:** dirty cream linen shirt, faded charcoal vest, muted gray-brown sash, weathered dark-brown trousers and worn brown leather boots. Textured/material illustration still to do.
+- **Clothing palette approved:** dirty cream linen shirt, faded charcoal vest, muted gray-brown sash, weathered dark-brown trousers and worn brown leather boots. Colored material study archived; production-ready costume references remain open.
 - **Personal items:** Reuse the existing character dossier's pendant, ring, journal and other documented possessions; do not invent new props by default. Their individual art studies come **after** clothing is complete.
 
 ## Pendant story exploration — not yet canon (15 October 2026)
 The creator favors the possibility that the circular silver pendant belonged to Elias's missing sister and was the only physical trace of her left after her disappearance. Do not commit to where/how it was found, its engraving, or the meaning of any star-and-crescent motif from an exploratory image. The argument and disappearance scene have not been written, and the parents' fate remains unknown. Story context should precede a finalized pendant design. See `characters/ELIAS_VAREK.md` and `decisions/CANON_STATUS.md`.
 
 ## Clothing artwork archived (15 October 2026)
-- [Rugged Adventurer Outfit Sketch](../Rugged%20Adventurer%20Outfit%20Sketch.png): approved single-view, clothing-only graphite sketch.
-- [Elias Clothing Concept Board](../Elias%20Clothing%20Concept%20Board.png): approved outfit color and fabric/material study.
+- [Rugged Adventurer Outfit Sketch](../assets/images/Rugged%20Adventurer%20Outfit%20Sketch.png): approved single-view, clothing-only graphite sketch.
+- [Elias Clothing Concept Board](../assets/images/Elias%20Clothing%20Concept%20Board.png): approved outfit color and fabric/material study.
 - Both are displayed in the public concept book's dedicated clothing section. Clothing remains separate from the facial design and personal items.
 - **Next:** review the already documented personal items one at a time; start with a minimal pencil exploration, then refine and texture, only with creator approval.
 
 ## Lower-city environment artwork archived (15 October 2026)
-- [Cavernous Monochrome Market City](../Cavernous%20Monochrome%20Market%20City.png): loose grayscale architectural blockout sketch.
-- [Gothic Undercity Beneath the Viaducts](../Gothic%20Undercity%20Beneath%20the%20Viaducts.png): chosen atmospheric color concept of an enormous, old, poor yet inhabited undercity.
+- [Cavernous Monochrome Market City](../assets/images/Cavernous%20Monochrome%20Market%20City.png): loose grayscale architectural blockout sketch.
+- [Gothic Undercity Beneath the Viaducts](../assets/images/Gothic%20Undercity%20Beneath%20the%20Viaducts.png): chosen atmospheric color concept of an enormous, old, poor yet inhabited undercity.
 - Both are featured in the website's **Beneath the great arches** section, using the existing click-to-zoom viewer.
 - Approved **visual direction**: huge layered arches, monumental masonry, stacked improvised housing, bustling markets, vulnerable children, cool light from above and warmer human-scale lights below. Avoid glossy photorealism for exploratory sketches; use spare construction lines and rough Photoshop-style painted studies.
 - Not yet canon: city layout, whether every district lies underground, architecture's origin, civic institutions, neighborhood name, or events of the sister's disappearance.
 
 ## Hidden children's shelter — approved exploration (15 October 2026)
-- [Hidden Children’s Shelter Storyboard](../Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png): grayscale architectural blockout showing the exterior context, concealed approach, passage, chamber, floor plan and section. Uploaded by the creator and displayed in the website's dedicated **A place only they knew** section.
+- [Hidden Children’s Shelter Storyboard](../assets/images/Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png): grayscale architectural blockout showing the exterior context, concealed approach, passage, chamber, floor plan and section. Uploaded by the creator and displayed in the website's dedicated **A place only they knew** section.
 - **Visual direction approved:** a small, secret, enclosed childhood refuge in cold, damp old stonework; children attempt to make it cozy with thin blankets, scavenged furnishings, small candles and personal traces, but the hardship remains visible. It must not open directly onto a public walkway.
 - **Access logic:** apparently ordinary storage alcove → loose stones conceal a child-sized gap → low, narrow crawlspace → bend / final approach → enclosed chamber. A high, narrow vent supplies indirect daylight without a clear view inside. Future images should keep this route and the plan/section/interior spatially consistent; the concept drawing is a visual reference, not a construction-ready plan.
 - **Not canon yet:** the exact location in the city, how the children found it, who lived there and when, its historical function, and whether it appears in a specific narrative scene.
@@ -64,12 +64,12 @@ Record creator, license, original URL and allowed uses for every third-party ass
 
 ## Approved game title art — 15 October 2026
 - **Where the Light Falls** is the approved title of the first game.
-- The creator approved `Where the Light Falls_ Citadel of Gold.png`, a dark title card with weathered gold serif typography, a circular ornamental motif, and monumental ancient city architecture lit by distant warm light.
+- The creator approved `assets/images/Where the Light Falls_ Citadel of Gold.png`, a dark title card with weathered gold serif typography, a circular ornamental motif, and monumental ancient city architecture lit by distant warm light.
 - This is approved **title artwork**, not a claim that every depicted architectural feature is canon. The design was AI-generated under the creator's direction and approval.
 - The wider universe remains unnamed; do not use **The Hollow Crown** as its established name.
 
 ## Connected city panorama — approved direction (15 October 2026)
-- [Where the Light Falls — connected city overview](../Where%20the%20Light%20Falls.png) is archived and displayed in the concept book beside the earlier undercity studies and title artwork.
+- [Where the Light Falls — connected city overview](../assets/images/Where%20the%20Light%20Falls.png) is archived and displayed in the concept book beside the earlier undercity studies and title artwork.
 - **Confirmed:** One continuous, vertically layered city joins the grand, sunlit upper districts with the inhabited lower districts by monumental stone arches, bridges, foundations and intermediate urban levels.
 - The panoramic image is a **visual study**, not a precise canonical city map. Its text annotations (government, noble houses, cathedrals, workshops, waterfalls, etc.) are not individually approved world facts.
 - Draw on *Arcane* for thematic contrast and humane complexity, without copying its geography, political factions, visual designs or story.
