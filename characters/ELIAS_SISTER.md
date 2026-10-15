@@ -4,6 +4,13 @@
 **Age:** Open; younger than Elias  
 **Status:** Core relationship dynamic confirmed; independent life to be developed
 
+## Facial concept studies — archived (15 October 2026)
+Two graphite-style portrait assets were uploaded for her early facial design:
+- [Graphite Portrait Studies on Aged Paper](../Graphite%20Portrait%20Studies%20on%20Aged%20Paper.png): simple side and frontal portraits.
+- [Graphite Portrait Study Sheet](../Graphite%20Portrait%20Study%20Sheet.png): a larger multi-angle study with facial feature details.
+
+**Visual direction under exploration:** a youthful, expressive, lightly freckled face; untidy dark hair pulled back with loose strands; believable pencil construction and uneven hatching rather than polished, photorealistic finish. These are selected concept studies, **not confirmation of final appearance, exact age, hairstyle, clothing, or name**. Her design should feel related to Elias without simply copying his features. Both artworks appear in the concept book and can be enlarged.
+
 ## Personality
 Lively, outgoing, social, curious and eager to find joy beyond survival. She has friends and places of her own. She loves Elias but resents being treated as a child to be protected rather than a person who can choose.
 
