@@ -13,8 +13,18 @@ A catastrophe or history of disasters may have shaped the world, but the nature 
 - Mystery is unsettling and evocative rather than constant jump scares.
 - Strange events may be real and interactive; their rules remain open.
 
+## Connected vertical city — established spatial direction (15 October 2026)
+**Confirmed by the creator:** The grand, sunlit upper districts seen in the approved title art and the densely inhabited lower districts beneath the viaducts exist within **one enormous, physically connected, vertically layered city**. Monumental stone arches, bridges, foundations and intermediate inhabited levels connect the architecture and the lives above and below. This is a spatial relationship, not a claim that all citizens have equal access or status.
+
+The upper levels suggest more monumental, prosperous urban spaces; the lower levels include dense, improvised homes, trade, community and hardship. The lower city is not lifeless or inherently morally inferior, and the upper city is not uniformly villainous. The *Arcane* comparison is an inspiration for visual storytelling and social complexity, **not** permission to copy Piltover, Zaun, factions or plot.
+
+- [Connected city overview / visual concept](../Where%20the%20Light%20Falls.png)
+- [Approved title art showing monumental upper architecture](../Where%20the%20Light%20Falls_%20Citadel%20of%20Gold.png)
+
+**Still open:** City name, precise layout and map, construction history, governing system, nobility or institutional functions, economic structures, access between levels, and whether details such as waterfalls or specific towers in the illustration exist in-world. The image's annotation text is **exploratory**, not automatically canon.
+
 ## First environment exploration — the lower city (15 October 2026)
-The creator selected an atmospheric concept of a poor but lively lower-city market under vast, ancient-looking arches and bridges, together with a simple monochrome architectural blockout. The scale, vertical layering, improvised housing, lantern-lit trade and human warmth are **approved visual inspiration**, not finalized geography or lore. Elias and his sister grew up among vulnerable children in an impoverished urban community; the exact structure of their neighborhood remains open.
+The creator selected an atmospheric concept of a poor but lively lower-city market under vast, ancient-looking arches and bridges, together with a simple monochrome architectural blockout. The scale, vertical layering, improvised housing, lantern-lit trade and human warmth are **approved visual inspiration**, not finalized geography or lore. Elias and his sister grew up among vulnerable children in an impoverished urban community; the precise layout of their neighborhood remains open, while its connection to the upper districts is now confirmed.
 
 - [Early grayscale blockout](../Cavernous%20Monochrome%20Market%20City.png)
 - [Colored atmosphere study](../Gothic%20Undercity%20Beneath%20the%20Viaducts.png)
