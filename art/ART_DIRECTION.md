@@ -26,6 +26,13 @@ The creator favors the possibility that the circular silver pendant belonged to 
 - Both are displayed in the public concept book's dedicated clothing section. Clothing remains separate from the facial design and personal items.
 - **Next:** review the already documented personal items one at a time; start with a minimal pencil exploration, then refine and texture, only with creator approval.
 
+## Lower-city environment artwork archived (15 October 2026)
+- [Cavernous Monochrome Market City](../Cavernous%20Monochrome%20Market%20City.png): loose grayscale architectural blockout sketch.
+- [Gothic Undercity Beneath the Viaducts](../Gothic%20Undercity%20Beneath%20the%20Viaducts.png): chosen atmospheric color concept of an enormous, old, poor yet inhabited undercity.
+- Both are featured in the website's **Beneath the great arches** section, using the existing click-to-zoom viewer.
+- Approved **visual direction**: huge layered arches, monumental masonry, stacked improvised housing, bustling markets, vulnerable children, cool light from above and warmer human-scale lights below. Avoid glossy photorealism for exploratory sketches; use spare construction lines and rough Photoshop-style painted studies.
+- Not yet canon: city layout, whether every district lies underground, architecture's origin, civic institutions, neighborhood name, or events of the sister's disappearance.
+
 ## Small-step visual production workflow
 Work on **one component and one decision at a time**, saving approved outcomes to Markdown and the public concept book:
 1. **Face:** first rough graphite pencil exploration → refined/colored concept. **Completed; Concept 03 approved.**
