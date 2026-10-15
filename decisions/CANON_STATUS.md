@@ -3,7 +3,7 @@
 ## Confirmed creative direction
 - **UNTITLED** is a working project title, not a final universe name.
 - The universe matters beyond its first game adaptation.
-- The story centers on **Elias Varek** (working name) and the unresolved disappearance of his younger sister.
+- The story centers on **Elias Varek** (working name) and the unresolved disappearance of his 17-year-old younger sister, **Mira Varek**.
 - Elias is a compassionate but deeply traumatized young man; his sister was once his reason to keep living.
 - He grew up protecting/raising his sister in a dangerous impoverished urban community, amid moments of friendship and warmth.
 - Their contrasting personalities and a rooftop memory are central emotional anchors.
@@ -15,10 +15,11 @@
 
 - **Elias clothing direction and palette approved (15 October 2026).** Graphite outfit sketch and colored material board are archived in the repository and shown in the concept book; see `characters/ELIAS_VAREK.md`.
 
-## Elias's sister — facial design exploration (15 October 2026)
+## Mira Varek — confirmed identity and facial design exploration (15 October 2026)
+- **Confirmed canon:** Mira Varek is Elias's younger sister, age **17 at her disappearance**. Elias is approximately 23; their age gap is approximately six years.
 - Two uploaded graphite portrait studies are archived: `Graphite Portrait Studies on Aged Paper.png` (front and side) and `Graphite Portrait Study Sheet.png` (multi-angle and facial details).
 - They explore a freckled youthful appearance, untidy dark hair tied back, and rough pencil-on-paper draftsmanship matching Elias's sketchbook approach.
-- **Status:** exploratory artwork uploaded and published, **not yet final canon**. Exact age, name, final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
+- **Status:** exploratory artwork uploaded and published, **not yet final canon**. Her name and age are confirmed; final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
 
 ## Selected environment visual direction (15 October 2026)
 - **Lower city:** Creator approved the visual direction of a vast, old, poor but alive neighborhood beneath monumental stone arches and viaducts. A grayscale blockout and colored atmosphere study are saved in the repo and displayed in the concept book.
@@ -50,7 +51,7 @@
 - Name, map, calendar, technology level, and history of the world.
 - Nature, rules and frequency of the supernatural.
 - City name, geography, class structure and institutional motives.
-- Parents' fate; sister's name, age, agency and ultimate fate.
+- Parents' whereabouts and fate; Mira's individual aspirations, agency, and ultimate fate.
 - Exact violent incident and surviving childhood friends.
 - Main plot beyond the sister search, factions and consequences.
 - How the current modern-inspired Elias outfit fits the older fantasy direction.
