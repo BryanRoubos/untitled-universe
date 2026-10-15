@@ -67,3 +67,10 @@ Record creator, license, original URL and allowed uses for every third-party ass
 - The creator approved `Where the Light Falls_ Citadel of Gold.png`, a dark title card with weathered gold serif typography, a circular ornamental motif, and monumental ancient city architecture lit by distant warm light.
 - This is approved **title artwork**, not a claim that every depicted architectural feature is canon. The design was AI-generated under the creator's direction and approval.
 - The wider universe remains unnamed; do not use **The Hollow Crown** as its established name.
+
+## Connected city panorama — approved direction (15 October 2026)
+- [Where the Light Falls — connected city overview](../Where%20the%20Light%20Falls.png) is archived and displayed in the concept book beside the earlier undercity studies and title artwork.
+- **Confirmed:** One continuous, vertically layered city joins the grand, sunlit upper districts with the inhabited lower districts by monumental stone arches, bridges, foundations and intermediate urban levels.
+- The panoramic image is a **visual study**, not a precise canonical city map. Its text annotations (government, noble houses, cathedrals, workshops, waterfalls, etc.) are not individually approved world facts.
+- Draw on *Arcane* for thematic contrast and humane complexity, without copying its geography, political factions, visual designs or story.
+- Preserve the approved lower-city sense of ordinary life, markets, children and community beneath the massive architecture.
