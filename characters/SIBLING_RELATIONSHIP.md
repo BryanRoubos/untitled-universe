@@ -13,6 +13,9 @@ Elias was a child forced to act as a guardian. His younger sister was one of the
 ## Defining memory
 At a bustling market, she persuades a reluctant Elias to climb to a rooftop. She shows him a view beyond the crowded, harsh streets. A possible line: **'You never look up, do you?'** (proposed wording, not locked dialogue).
 
+## Possible childhood refuge — visual direction, not narrative canon
+An approved environment exploration depicts a concealed, cold stone chamber where vulnerable children have attempted to make a home. The entrance is hidden behind loose stones in a neglected storage alcove, leading through a narrow crawlspace into an enclosed shelter. This is a setting proposal, **not** confirmation of who lived there, what occurred there, or how it connects to the siblings' disappearance. See `world/WORLD_OVERVIEW.md`.
+
 ## The wound
 They fight about his protectiveness. She leaves. He stays behind for the first time, angry and exhausted. After the incident and her disappearance, he treats that one choice as unforgivable.
 
