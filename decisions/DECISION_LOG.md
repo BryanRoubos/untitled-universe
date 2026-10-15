@@ -18,5 +18,7 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 
 | 2026-10-15 | Selected hidden children's shelter as an environment exploration: cold enclosed chamber, makeshift comfort, concealed rubble-covered child-sized approach; grayscale storyboard uploaded and published | Visual direction approved; exact geography, occupants and plot role open |
 
+| 2026-10-15 | Archived two graphite portrait studies for Elias’s younger sister and published them in the concept book | Face exploration only; final appearance, name, age and clothing not confirmed |
+
 ## Rule for future entries
 Append: date, decision, rationale, who approved it, affected files, and what remains unresolved. Do not silently rewrite a historical decision.
