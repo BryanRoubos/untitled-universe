@@ -15,6 +15,11 @@
 
 - **Elias clothing direction and palette approved (15 October 2026).** Graphite outfit sketch and colored material board are archived in the repository and shown in the concept book; see `characters/ELIAS_VAREK.md`.
 
+## Elias's sister — facial design exploration (15 October 2026)
+- Two uploaded graphite portrait studies are archived: `Graphite Portrait Studies on Aged Paper.png` (front and side) and `Graphite Portrait Study Sheet.png` (multi-angle and facial details).
+- They explore a freckled youthful appearance, untidy dark hair tied back, and rough pencil-on-paper draftsmanship matching Elias's sketchbook approach.
+- **Status:** exploratory artwork uploaded and published, **not yet final canon**. Exact age, name, final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
+
 ## Selected environment visual direction (15 October 2026)
 - **Lower city:** Creator approved the visual direction of a vast, old, poor but alive neighborhood beneath monumental stone arches and viaducts. A grayscale blockout and colored atmosphere study are saved in the repo and displayed in the concept book.
 - **Status:** Visual reference approved; precise geography, construction history, civic structures and how this setting connects to the sibling story remain exploratory, not canon.
