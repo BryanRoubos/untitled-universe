@@ -8,22 +8,24 @@ Cinematic, tactile, atmospheric dark fantasy. Dense forests and ruined architect
 ## Visual production style — October 15 feedback
 Concept art should resemble actual human-made pencil studies, sketchbook work or thoughtful digital painting, not a glossy, uniform AI illustration. Favor expressive line weight, believable draftsmanship, imperfect pencil/ink marks, restrained color, and purposeful visual exploration. **Do not place generator instructions, such as "no AI look" or "usable for 3D reference," as text on artwork.** Avoid unnecessary annotations; only use natural in-world or design-relevant notes if genuinely useful.
 
-## Elias
-See [character sheet](../characters/ELIAS_VAREK.md). Earlier approved visual baseline remains documented; the source image is not yet archived here. A new generated **Concept 01** was reviewed on October 15: the creator liked the general face, clothing and muted palette, but felt it was somewhat AI-looking, too mature and sometimes too tall. Elias should read as approximately 23 and around 180 cm. A subtle eyebrow scar/cut is an option, **not approved canon**. Concept 01 itself is not yet stored in this repository.
+## Elias — current approvals (15 October 2026)
+- **Face:** Concept 03 approved: youthful (~23), tired brown eyes, messy slightly oily chestnut hair, light uneven stubble, subtle eyebrow scar. The early graphite face exploration and main concept artwork are already in the repository and displayed in the concept book.
+- **Clothing direction:** The creator selected the simple layered outfit study: worn vest, linen shirt, fabric sash, loose trousers and rugged boots. The rough pencil clothing stage is the current focus; do not add face studies or elaborate character sheets to a clothing-only drawing.
+- **Clothing palette approved:** dirty cream linen shirt, faded charcoal vest, muted gray-brown sash, weathered dark-brown trousers and worn brown leather boots. Textured/material illustration still to do.
+- **Personal items:** Reuse the existing character dossier's pendant, ring, journal and other documented possessions; do not invent new props by default. Their individual art studies come **after** clothing is complete.
 
-## Step-by-step character design
-1. Explore 4–5 separate face sketches; refine and approve likeness.
-2. Develop body proportions, silhouette and posture.
-3. Explore and approve clothing, colors and construction.
-4. Explore and approve props and accessories.
-5. Combine approved elements into a final concept board.
-6. Create consistent, accurately aligned front/side/back technical references for 3D modeling.
-7. Only then evaluate model creation, topology, rigging and Unreal Engine integration.
+## Small-step visual production workflow
+Work on **one component and one decision at a time**, saving approved outcomes to Markdown and the public concept book:
+1. **Face:** first rough graphite pencil exploration → refined/colored concept. **Completed; Concept 03 approved.**
+2. **Clothing:** first rough pencil outfit exploration → clean/refined clothing sketch → color and fabric/material texture study. **Current stage.** Draw the clothes, not repeat hair, faces, facial expressions, or complete character boards.
+3. **Existing items:** independently sketch each documented object (e.g. pendant, ring, journal) → refine its shape → colors/materials/textures; one item at a time.
+4. **Consolidated character sheet:** combine only approved face, body, clothing and items.
+5. **Technical 3D references:** clean aligned front, side and back views, then consider modeling/rigging/UE5.
 
-For each stage, update the relevant Markdown source of truth and add approved work to the public-facing website incrementally. Keep experiments labeled as experiments; approval belongs to the creator.
+Keep artwork minimal and natural, with few or no labels. Separate rough sketches from textured/color work. Do not treat a generated exploration as canon without the creator's approval. The repo is the source of truth; **read existing character and art docs before suggesting new design decisions**.
 
 ## Open
-Stylization versus photorealism, color language, regional architecture, materials, costume adaptation for historical fantasy, asset provenance, final Elias face/body/clothes, and scar decision.
+Exact body silhouette, finalized clothing texture treatment, detailed item designs, world architecture and further 3D pipeline choices.
 
 ## Asset hygiene
 Record creator, license, original URL and allowed uses for every third-party asset. Do not commit huge generated assets or UE project caches to this Markdown repository by default.
