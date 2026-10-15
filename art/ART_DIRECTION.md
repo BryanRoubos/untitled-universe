@@ -14,10 +14,16 @@ Concept art should resemble actual human-made pencil studies, sketchbook work or
 - **Clothing palette approved:** dirty cream linen shirt, faded charcoal vest, muted gray-brown sash, weathered dark-brown trousers and worn brown leather boots. Textured/material illustration still to do.
 - **Personal items:** Reuse the existing character dossier's pendant, ring, journal and other documented possessions; do not invent new props by default. Their individual art studies come **after** clothing is complete.
 
+## Clothing artwork archived (15 October 2026)
+- [Rugged Adventurer Outfit Sketch](../Rugged%20Adventurer%20Outfit%20Sketch.png): approved single-view, clothing-only graphite sketch.
+- [Elias Clothing Concept Board](../Elias%20Clothing%20Concept%20Board.png): approved outfit color and fabric/material study.
+- Both are displayed in the public concept book's dedicated clothing section. Clothing remains separate from the facial design and personal items.
+- **Next:** review the already documented personal items one at a time; start with a minimal pencil exploration, then refine and texture, only with creator approval.
+
 ## Small-step visual production workflow
 Work on **one component and one decision at a time**, saving approved outcomes to Markdown and the public concept book:
 1. **Face:** first rough graphite pencil exploration → refined/colored concept. **Completed; Concept 03 approved.**
-2. **Clothing:** first rough pencil outfit exploration → clean/refined clothing sketch → color and fabric/material texture study. **Current stage.** Draw the clothes, not repeat hair, faces, facial expressions, or complete character boards.
+2. **Clothing:** first rough pencil outfit exploration → clean/refined clothing sketch → color and fabric/material texture study. **Completed: pencil and textured studies approved.** Draw the clothes, not repeat hair, faces, facial expressions, or complete character boards.
 3. **Existing items:** independently sketch each documented object (e.g. pendant, ring, journal) → refine its shape → colors/materials/textures; one item at a time.
 4. **Consolidated character sheet:** combine only approved face, body, clothing and items.
 5. **Technical 3D references:** clean aligned front, side and back views, then consider modeling/rigging/UE5.
