@@ -11,6 +11,8 @@
 - Storytelling should be mature, nuanced, atmospheric, sometimes supernatural, and not relentlessly bleak.
 - Progress should be iterative and achievable by a solo creator.
 
+- **Elias facial design: Concept 03 approved (15 October 2026).** See `characters/ELIAS_VAREK.md`. Colored study and rough pencil sketch exist but are not yet uploaded as image assets.
+
 ## Working / strongly favored
 - Older, historical-feeling **dark fantasy** rather than a modern-gun post-apocalypse; exact technology undecided.
 - The siblings' serious argument, Elias choosing not to follow, and her disappearance during a subsequent violent event.
