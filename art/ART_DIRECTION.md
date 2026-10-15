@@ -11,6 +11,13 @@ Original pencil concepts and creative direction: **Bryan Roubos** (as described 
 ## Visual production style — October 15 feedback
 Concept art should resemble actual human-made pencil studies, sketchbook work or thoughtful digital painting, not a glossy, uniform AI illustration. Favor expressive line weight, believable draftsmanship, imperfect pencil/ink marks, restrained color, and purposeful visual exploration. **Do not place generator instructions, such as "no AI look" or "usable for 3D reference," as text on artwork.** Avoid unnecessary annotations; only use natural in-world or design-relevant notes if genuinely useful.
 
+## Elias's sister — first facial studies archived (15 October 2026)
+- [Simple side/front pencil exploration](../Graphite%20Portrait%20Studies%20on%20Aged%20Paper.png).
+- [Multi-angle pencil study sheet](../Graphite%20Portrait%20Study%20Sheet.png).
+- Both are now displayed in the public concept book's sister section, with click-to-zoom support.
+- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, age, clothing or story implications have been canonized.
+- **Next step:** obtain explicit approval of her face before creating separate clothing or colored studies.
+
 ## Elias — current approvals (15 October 2026)
 - **Face:** Concept 03 approved: youthful (~23), tired brown eyes, messy slightly oily chestnut hair, light uneven stubble, subtle eyebrow scar. The early graphite face exploration and main concept artwork are already in the repository and displayed in the concept book.
 - **Clothing direction:** The creator selected the simple layered outfit study: worn vest, linen shirt, fabric sash, loose trousers and rugged boots. The rough pencil clothing stage is the current focus; do not add face studies or elaborate character sheets to a clothing-only drawing.
