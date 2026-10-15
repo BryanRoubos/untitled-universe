@@ -1,0 +1,23 @@
+# Elias's Younger Sister
+
+**Name:** Open  
+**Age:** Open; younger than Elias  
+**Status:** Core relationship dynamic confirmed; independent life to be developed
+
+## Personality
+Lively, outgoing, social, curious and eager to find joy beyond survival. She has friends and places of her own. She loves Elias but resents being treated as a child to be protected rather than a person who can choose.
+
+## Childhood
+She and Elias grew up without dependable parental care (precise circumstances open). Elias assumed a parental role too young. Their community included other vulnerable children, danger, friendship, mischief and small moments of warmth.
+
+## Relationship with Elias
+She repeatedly invites him into life beyond constant vigilance. He loves her fiercely, but his fear can become controlling. Their bond should include jokes, ordinary arguments, warmth and frustration, not just tragedy.
+
+## Disappearance — working premise
+After a serious argument, she leaves. For once Elias does not follow. A violent incident affects her friends or neighborhood; she vanishes. Whether she survived, was taken, or is connected to supernatural events is **open**.
+
+## Important writing rule
+Develop her personal aspirations, friendships, values, fears and agency before treating the disappearance as a plot mechanism.
+
+## Open
+Name, age, appearance, individual friendships, talents, goals, what she wanted from the rooftop, and her fate.
