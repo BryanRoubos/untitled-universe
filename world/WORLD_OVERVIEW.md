@@ -13,6 +13,12 @@ A catastrophe or history of disasters may have shaped the world, but the nature 
 - Mystery is unsettling and evocative rather than constant jump scares.
 - Strange events may be real and interactive; their rules remain open.
 
+## First environment exploration — the lower city (15 October 2026)
+The creator selected an atmospheric concept of a poor but lively lower-city market under vast, ancient-looking arches and bridges, together with a simple monochrome architectural blockout. The scale, vertical layering, improvised housing, lantern-lit trade and human warmth are **approved visual inspiration**, not finalized geography or lore. Elias and his sister grew up among vulnerable children in an impoverished urban community; the exact structure of their neighborhood remains open.
+
+- [Early grayscale blockout](../Cavernous%20Monochrome%20Market%20City.png)
+- [Colored atmosphere study](../Gothic%20Undercity%20Beneath%20the%20Viaducts.png)
+
 ## Exploration example — not canon
 In a ruined house, Elias hears piano music and meets an old woman who offers tea. Later, a photograph suggests she died decades earlier in a fire. Returning reveals ash, yet her cup remains in his bag. The value is the emotional ambiguity and physical trace, not a preselected explanation.
 
