@@ -19,6 +19,11 @@
 - **Lower city:** Creator approved the visual direction of a vast, old, poor but alive neighborhood beneath monumental stone arches and viaducts. A grayscale blockout and colored atmosphere study are saved in the repo and displayed in the concept book.
 - **Status:** Visual reference approved; precise geography, construction history, civic structures and how this setting connects to the sibling story remain exploratory, not canon.
 
+## Hidden shelter — selected visual exploration (15 October 2026)
+- The creator likes a **secret, cold, damp children's refuge** within the lower city's massive stonework, made modestly homelike with scavenged bedding, candles and small personal details. It should be enclosed and difficult to discover, not openly visible from bridges or public walkways.
+- The uploaded grayscale storyboard explores an ordinary-looking storage alcove, loose stones covering a child-sized crawlspace, a narrow passage and bend, an enclosed chamber, and a small high vent. The artwork is archived and published in the concept book.
+- **Status:** Approved *visual direction only*. Precise site, occupants, history, architecture and narrative use remain open; do not assume the sister disappeared here or that this is a locked game level.
+
 ## Working / strongly favored
 - Older, historical-feeling **dark fantasy** rather than a modern-gun post-apocalypse; exact technology undecided.
 - The siblings' serious argument, Elias choosing not to follow, and her disappearance during a subsequent violent event.
