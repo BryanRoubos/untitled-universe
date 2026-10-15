@@ -16,5 +16,7 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 | Production discussion | Iterative creative sessions; build references and a high-quality Elias model | Confirmed workflow |
 | 2026-10-15 | Established GitHub World Bible as a persistent source of truth | Confirmed |
 
+| 2026-10-15 | Selected hidden children's shelter as an environment exploration: cold enclosed chamber, makeshift comfort, concealed rubble-covered child-sized approach; grayscale storyboard uploaded and published | Visual direction approved; exact geography, occupants and plot role open |
+
 ## Rule for future entries
 Append: date, decision, rationale, who approved it, affected files, and what remains unresolved. Do not silently rewrite a historical decision.
