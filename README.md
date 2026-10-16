@@ -40,7 +40,7 @@ The authoritative, more detailed record is [Canon Status](decisions/CANON_STATUS
 | [`assets/images/`](assets/images/) | All concept artwork and title images |
 | [`characters/`](characters/) | Elias, Mira and their relationship |
 | [`world/`](world/) | Geography, society and open worldbuilding |
-| [`narrative/`](narrative/) | Story outline and scene explorations |
+| [`narrative/`](narrative/) | Story outline and scene explorations, including [Mira's open-concept character and rooftop notes](narrative/MIRA_EVERYDAY_LIFE.md) |
 | [`game-design/`](game-design/) | Game vision and scope |
 | [`art/`](art/) | Visual direction and references |
 | [`decisions/`](decisions/) | Canon tracker and dated decision history |
