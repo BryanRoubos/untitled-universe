@@ -2,7 +2,7 @@
 
 **Status: Confirmed collaboration principles**
 
-1. **Universe first, game as first expression.** Build an original setting that could also support novels, films, and other stories.
+1. **Universe first; story before medium.** Develop the story in prose first, without assuming it is a game. Let the characters, emotional truth, and narrative determine what form or adaptation suits it later. Do not let gameplay requirements prematurely constrain the story; only shift into game design when the creator explicitly chooses to.
 2. **Creator decides canon.** Assistant suggestions never become confirmed automatically.
 3. **Label uncertainty.** Use Confirmed / Working / Exploring / Open / Rejected. Avoid presenting speculation as history.
 4. **Characters are people.** Nuanced motives, contradiction, humor, kindness, conflict and agency. No single-trait villains or plot-device companions.
