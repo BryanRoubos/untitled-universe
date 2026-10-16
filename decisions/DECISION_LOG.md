@@ -27,6 +27,8 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 
 | 2026-10-15 | Creator established that the monumental upper city and inhabited lower city are one physically connected, vertically layered city; uploaded `assets/images/Where the Light Falls.png` to illustrate their relationship | Connected city structure confirmed; artwork details and political/social history open |
 
+| 2026-10-16 | Added an open-concept exploration of Mira's private curiosity, possible habit of exploring overlooked places and keeping small found objects, and the rooftop scene's emotional contrast | Exploring only; no new canon approved; parents' fate, rooftop location and chronology remain open |
+
 ## Historical note
 Earlier entries reflect the status at the time. Mira's name and age were later confirmed; her portraits remain exploratory. The canon tracker is authoritative for current status.
 
