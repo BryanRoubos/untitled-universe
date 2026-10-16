@@ -24,6 +24,13 @@
 - They explore a freckled youthful appearance, untidy dark hair tied back, and rough pencil-on-paper draftsmanship matching Elias's sketchbook approach.
 - **Status:** exploratory artwork uploaded and published, **not yet final canon**. Her name and age are confirmed; final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
 
+## Mira's everyday life and rooftop — open concept (16 October 2026)
+
+- **Exploring, not canon:** Mira may privately explore overlooked places and collect small found objects. This is intended to make her curiosity tangible and give her a private inner life, not to turn every object into a clue or plot device.
+- **Working emotional direction:** On the rooftop, Mira sees possibility in the connected city while Elias's fear makes him focus on distance and danger. Mira may ask whether their parents are alive in the upper districts; this does not establish their fate or the nature of the upper city.
+- **Open:** The rooftop's exact location, route, accessibility, chronological placement, point of view, and the details of the scene remain undecided. It is not confirmed to be the highest accessible point or a playable prologue.
+- Supporting prose and continuity notes: [Mira — Everyday Life and Rooftop Scene](../narrative/MIRA_EVERYDAY_LIFE.md).
+
 ## Connected city structure — confirmed (15 October 2026)
 - The monumental, sunlit upper districts and the densely inhabited lower districts are parts of **one enormous connected, vertically layered city**, not two unrelated cities. Great arches, bridges, foundations and intermediate inhabited levels physically connect them.
 - The uploaded panoramic concept `assets/images/Where the Light Falls.png` is a selected visual reference and is displayed in the concept book alongside the title art and lower-city studies.
