@@ -1,3 +1,5 @@
+**Latest image revision (17 October 2026):** Replaced the previously featured *Silent Market* file with the creator's latest uploaded version. The ruined lower-city market is unlit and abandoned, while distant upper-city windows retain restrained warm light. Disregard the earlier all-dark version. This is an approved visual direction for the illustration, **not** confirmation that the entire lower city is abandoned or that all upper districts escaped damage.
+
 ## Post-uprising concept art added — 17 October 2026
 
 **New uploaded image:** `assets/images/Ruined Gothic Market Beneath Broken Viaducts.png`, titled *The Silent Market* for display. Featured in Chapter V (*The Search*) as a **post-uprising environment concept**, following the existing Elias overlook. The artist-supplied image follows the approved textured, imperfect, painterly aesthetic from *The Wayfarer’s Journal at Dusk*.

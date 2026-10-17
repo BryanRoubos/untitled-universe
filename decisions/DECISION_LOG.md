@@ -1,3 +1,7 @@
+## 17 October 2026 — Silent Market illustration revised
+
+Latest uploaded image supersedes earlier post-uprising market variants. Lower market remains unlit and abandoned; upper-city windows have faint warm illumination. Earlier all-dark image should not be used. No new geographical, political or narrative canon established.
+
 ## 17 October 2026 — Post-uprising concept illustration uploaded
 
 *Ruined Gothic Market Beneath Broken Viaducts.png* was uploaded and added to the illustrated book as *The Silent Market*, a post-uprising visual study. The creator requested artwork only, not additional lore. Exact site, destruction, architecture and symbolic details are exploratory and do not become canon. No character or narrative decisions were added.
