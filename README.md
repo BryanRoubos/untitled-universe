@@ -10,7 +10,7 @@
 
 *Where the Light Falls* is the **creator-approved title of the first game** set in a larger original fantasy world. The wider universe has **no confirmed name**; `untitled-universe` remains the repository name.
 
-The story follows **Elias Varek** (working name) and the disappearance of his younger sister **Mira Varek**, who was **17** when she disappeared. Their relationship is the emotional foundation; the circumstances and outcome remain open.
+The story follows **Elias Varek** (working name) and the disappearance of his younger sister **Mira Varek**, who died at **15** about two years before the present. Elias believes she is missing; the audience discovers the truth alongside him near the ending.
 
 ### The city
 
@@ -25,11 +25,11 @@ The monumental, sunlit upper districts and the inhabited lower districts form **
 | First game title and gold title artwork | **Approved** |
 | Wider universe name | **Open** |
 | Elias's emotional core, Concept 03 face and clothing direction | **Confirmed / approved** |
-| Mira's name and age (17 at disappearance) | **Confirmed** |
+| Mira's name and age (15 at death) | **Confirmed** |
 | Mira's final facial design and clothing | **Exploring** |
 | Connected upper and lower city | **Confirmed spatial relationship** |
 | Lower-city and hidden-shelter artwork | **Approved visual directions**, not final maps or story events |
-| Exact disappearance, world history and supernatural rules | **Open / working** |
+| Exact death circumstances, world history and supernatural rules | **Open / working** |
 | Playable prototype and detailed gameplay | **Not yet established** |
 
 The authoritative, more detailed record is [Canon Status](decisions/CANON_STATUS.md). A visual concept does not make every detail depicted in it canon.
