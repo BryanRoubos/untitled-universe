@@ -64,3 +64,8 @@ Continue one small approved component at a time. Potential choices include devel
 Use the Markdown documents as detailed source of truth and the website as the public visual concept book. Update canon status and decision log after approval; keep exploratory imagery separate from confirmed lore.
 
 **Website review — 17 October 2026:** Corrected mispositioned lower-city study note so it sits with the two environmental studies, not below the Arch coin. Coin illustration is approved object design, not literal city geography. Confirmed Kareth and pendant status retained. Book-like styling, chapter selector, reading progress and improved page-turn links implemented in `index.html`; internal links and asset references validated.
+
+
+## Latest approval — the siblings' home and illustrated-book update (17 October 2026)
+
+Elias and Mira actually **lived together** in the concealed vaulted shelter beneath the great viaducts before the uprising. The creator uploaded `Candlelit Medieval Stone Chamber.png`, now organized at `assets/images/Candlelit Medieval Stone Chamber.png` and featured in Chapter IV with the earlier `Hidden Children's Shelter Storyboard.png`. Its warm, hand-painted, parchment-edged treatment is approved visual direction. The precise furniture, sleeping arrangements, passage geometry and city coordinates are not canon. The single-page book website was restyled with warmer literary reading colors, calmer text rhythm, stronger image presentation and mobile refinements; existing chapters, spoilers and navigation were retained.

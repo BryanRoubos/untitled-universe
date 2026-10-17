@@ -139,3 +139,12 @@ The creator explicitly confirmed the [Elias Clothing Concept Board](../assets/im
 ![Elias writing in his journal](../assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png)
 
 **Exploratory scene illustration**, now filed with other artwork: Elias writes in a weathered journal against the city's stacked arches and bridges, with warm lamp glow and painterly, rough-edged treatment. It is a mood and character study, not confirmation of a specific place, date, or plot scene. Preserve the established concept-art direction; the journal spread's handwriting contrast is the approved reference. Kareth is an established month name, but the journal illustration's precise date remains illustrative only.
+
+
+## Elias and Mira's home — approved environment art (17 October 2026)
+
+![Candlelit Medieval Stone Chamber](../assets/images/Candlelit%20Medieval%20Stone%20Chamber.png)
+
+**Creator-confirmed story fact:** The siblings actually lived in the concealed shelter beneath the great viaducts before the uprising. It was their home, not an occasional hideout. The earlier [Hidden Children's Shelter Storyboard](../assets/images/Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png) provides the hidden storage-alcove entrance, loose stones, crawlable passage, stone-vaulted chamber and high ventilation opening as architectural study. Ensure the route is physically usable by adult Elias.
+
+**Approved illustrated environment direction:** `Candlelit Medieval Stone Chamber.png` shows their humble, warm, lived-in room: aged stone vaults, patched furnishings, textiles, shelves, candles, a recessed entrance and daylight from high above. Its hand-painted ochre/charcoal palette, irregular brush texture and parchment edges align with the book's established art direction. Do not lock the exact number/placement of beds, possessions, furniture, route dimensions or city address from this one painting.

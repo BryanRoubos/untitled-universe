@@ -83,3 +83,8 @@ Moved `The Wayfarer’s Journal at Dusk.png` into `assets/images/The Wayfarer’
 ## 17 October 2026 — Pendant confirmed
 
 Creator confirmed that Mira owned the silver pendant; Elias has it after her disappearance and it is the only thing he has left of her. Origin, transfer circumstances and design remain open. Supersedes previous speculative status.
+
+
+## 17 October 2026 — Hidden shelter confirmed as home and illustrated
+
+Creator confirmed that Elias and Mira **lived** in the hidden viaduct-foundation shelter before the uprising. Uploaded `Candlelit Medieval Stone Chamber.png` as the approved full-color environment illustration; preserved the earlier entrance and chamber storyboard as spatial concept. Featured both in Chapter IV of the illustrated website. Specific decor and layout remain exploratory. Website reading design refined with warmer book-like palette, clearer reading rhythm and illustration presentation; no new plot events established.

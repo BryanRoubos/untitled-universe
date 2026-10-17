@@ -155,3 +155,8 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 Reference: [Lone Adventurer Overlooking the Twilight Citadel](../assets/images/Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
+
+
+## Elias and Mira's home — confirmed 17 October 2026
+
+**Canon:** Before the uprising, Elias and Mira lived together in a hidden shelter within the stone foundations of the city's great viaducts. This was their actual home, not merely a temporary refuge. The original shelter storyboard is a spatial exploration; `Candlelit Medieval Stone Chamber.png` is the approved painterly depiction of the lived-in chamber. The specific objects, sleeping arrangement, dimensions, exact entry path and address are not established story facts.
