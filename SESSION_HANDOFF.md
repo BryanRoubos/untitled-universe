@@ -1,4 +1,4 @@
-**Website/artwork sync (17 October 2026):** Uploaded `The Wayfarer’s Journal at Dusk.png` moved to `assets/images/The Wayfarer’s Journal at Dusk.png`; shown in Elias's Chapter II as exploratory scene art, not a confirmed event. Chapter I explains canonical month name Kareth, with calendar specifics open. Website pendant description corrected to working Mira connection per items dossier. Journal spread retains approved visual direction, but literal text/date not canon.
+**Website/artwork sync (17 October 2026):** Uploaded `The Wayfarer’s Journal at Dusk.png` moved to `assets/images/The Wayfarer’s Journal at Dusk.png`; shown in Elias's Chapter II as exploratory scene art, not a confirmed event. Chapter I explains canonical month name Kareth, with calendar specifics open. Website pendant description updated to confirmed Mira ownership and Elias's only keepsake. Journal spread retains approved visual direction, but literal text/date not canon.
 
 
 **Calendar update (17 October 2026):** **Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**.
@@ -43,7 +43,7 @@ The rooftop argument is a real memory: Elias and Mira argue, then leave together
 The creator confirmed that the monumental, sunlit upper districts in the title artwork and the inhabited lower districts in the market/viaduct concept belong to **one enormous, physically connected, vertically layered city**. The creator uploaded `assets/images/Where the Light Falls.png` as a panoramic architectural concept showing upper, middle and lower levels; it is displayed on the website. The image is **not a precise map** and its labels (government, nobility, cathedrals, waterfalls, workshops, etc.) do not establish lore. City history, political structure, class relations, access routes and individual architecture details remain open. *Arcane* is a reference for social complexity and spatial storytelling, not a world to copy.
 
 ## Existing approved creative work
-- Elias Varek: Concept 03 face and historical-feeling layered clothing/color direction approved; pendant, ring and journal design/story details still open.
+- Elias Varek: Concept 03 face and historical-feeling layered clothing/color direction approved; pendant ownership and keepsake role confirmed (origin/design open); ring and journal literal details open.
 - Mira Varek: name and death at age 15 confirmed; graphite facial explorations are **not final**.
 - Lower city: monumental arches, stacked homes, market life and warmth among hardship approved as visual direction.
 - Hidden children's shelter: concealed rubble-covered approach and small enclosed chamber approved as visual exploration; precise role and location open.

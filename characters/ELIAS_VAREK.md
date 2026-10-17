@@ -44,7 +44,7 @@ Selected layered outfit: dirty-cream linen shirt, faded charcoal vest, muted gra
 
 ## Personal items
 
-Elias's established possessions and their design/story-status notes are documented separately in [Elias Varek — Personal Items](ELIAS_VAREK_ITEMS.md). This keeps the character dossier focused on his characterization and story. His pendant's possible connection to Mira remains a working possibility, not canon; its exact design and history are open.
+Elias's established possessions and their design/story-status notes are documented separately in [Elias Varek — Personal Items](ELIAS_VAREK_ITEMS.md). This keeps the character dossier focused on his characterization and story. His pendant belonged to Mira. He has it after her disappearance, and it is the only thing he has left of her. Its origin, transfer and exact design remain open.
 
 ## Inner life
 Elias experiences severe depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, emotional exhaustion, and difficulty imagining an identity beyond protecting his sister. He has sometimes struggled to want to exist; searching for his missing sister has been his sole reason to keep going.

@@ -2,7 +2,7 @@
 
 - **Kareth: confirmed month name**, represented in Chapter I's everyday-life worldbuilding. Its place in the year, season, duration and history remain open; “17th of Kareth” is only an example date.
 - **The Wayfarer’s Journal at Dusk:** [scene illustration](../assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png) is **exploratory concept art**, not a canon event or confirmed location. It belongs in Elias's Chapter II beside the approved journal-spread concept.
-- **Pendant status correction:** The personal-items dossier records Elias's circular silver pendant as an established possession; its connection to Mira is a **working possibility**, not confirmed. The website now matches that status.
+- **Pendant status update (superseded):** The former working-possibility label was overridden by creator confirmation: Mira owned it; Elias has it after her disappearance as his only keepsake.
 
 
 ## Calendar decision — Kareth (17 October 2026)
@@ -93,8 +93,8 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - Powerful stable institutions/cities alongside ruined and dangerous regions.
 - Elias's previously discussed appearance and outfit (see character document) are an approved visual baseline, but setting-compatible revisions may be needed.
 
-## Strong narrative possibility — pendant (not canon)
-- Elias's existing small circular silver pendant may originally have belonged to his sister and may be the only physical trace of her he found after she disappeared. The creator likes this direction, but it is **not confirmed canon**.
+## Pendant — confirmed canon (supersedes earlier exploratory status)
+- Mira owned the small circular silver pendant. Elias possesses it after her disappearance, and it is the **only thing he has left of her**.
 - The argument, disappearance scene, aftermath, where/how the pendant was found, and its exact engraving or meaning remain unwritten and open. The star-and-crescent design is exploratory only. The parents' whereabouts and fate are unknown; do not infer them from the pendant.
 
 ## Exploring, not canon

@@ -63,3 +63,7 @@ The creator approved **Kareth** as a canonical month name. The rest of the calen
 ## 17 October 2026 — Website chapter and uploaded artwork synchronization
 
 Moved `The Wayfarer’s Journal at Dusk.png` into `assets/images/The Wayfarer’s Journal at Dusk.png` and placed it in Elias's Personal Artifacts section as **exploratory scene art**. Added Kareth to Chapter I as confirmed month vocabulary, while leaving the calendar open. Corrected the website's overstatement about the pendant belonging to Mira to match the items dossier. Existing journal spread remains approved *visual concept*, not canon literal page content.
+
+## 17 October 2026 — Pendant confirmed
+
+Creator confirmed that Mira owned the silver pendant; Elias has it after her disappearance and it is the only thing he has left of her. Origin, transfer circumstances and design remain open. Supersedes previous speculative status.

@@ -3,10 +3,10 @@
 This file separates Elias's possessions from his character biography and clothing. Track status, appearance, story significance, and visual references for each item. Exploratory art is not canon unless explicitly approved.
 
 ## Silver pendant
-- **Status:** Possession established; final design and history open.
+- **Status:** CONFIRMED: Mira owned the pendant; Elias has it after her disappearance as the only thing he has left of her. Design and acquisition details open.
 - **Appearance:** Small, circular, silver pendant.
-- **Story significance:** It may have belonged to Mira; this remains a working possibility, not canon.
-- **Open:** How Elias obtained it, exact design or engraving, and any meaning.
+- **Story significance:** Mira owned it. After she disappears, Elias possesses it as his sole remaining keepsake of her.
+- **Open:** Where Mira got it, exactly how Elias obtained it after her disappearance, final design/engraving, and additional meaning.
 - **Visual reference status:** The exact motif in earlier exploratory art is not approved.
 
 ## Engraved silver ring
