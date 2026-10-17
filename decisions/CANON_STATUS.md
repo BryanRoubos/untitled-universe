@@ -9,20 +9,18 @@ Mira died aged 15 about two years before the present, but Elias and the audience
 
 A coercive lower-city faction plans a rebellion and exploits Elias, an experienced climber and stealthy city navigator, by offering freedom after a final assignment. He opens a restricted upper-city passage, not knowing the faction will use it to begin its planned armed uprising. Its leaders know the danger and regard him as expendable. Returning amid the violence, he sees a fleeting glimpse of Mira being taken but cannot reach her. The lower city was lively before the disaster; parts are devastated, but survivors remain. Ordinary civilians on both sides have their own lives and stories.
 
-Elias effectively raised Mira, loves her, struggles to accept love himself, and can become controlling. Mira loves him but wants independence. Their birthday rooftop argument ends with both leaving together; Elias later misremembers Mira leaving alone. His older, trusting childhood friend introduced him to the organization and sees it as substitute family, unaware of its manipulation. Friend's name and fate, the exact leverage over Elias, Mira's precise death circumstances, and the city's political structures remain open.
+Elias effectively raised Mira, loves her, struggles to accept love himself, and can become controlling. Mira loves him but wants independence. Their birthday rooftop argument ends with both leaving together. The proposed false-memory version is retired and is not canon. His older, trusting childhood friend introduced him to the organization and sees it as substitute family, unaware of its manipulation. Friend's name and fate, the exact leverage over Elias, Mira's precise death circumstances, and the city's political structures remain open.
 
-**Editorial note:** Older entries below describing Mira as 17, fate undecided, or the rooftop separation as real are superseded.
+**Editorial note:** Older entries below describing Mira as 17 at disappearance, her fate as unknown, or Elias’s false rooftop memory as canon are historical and superseded.
 
-> **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
-
-
+> **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 ## Confirmed creative direction
 - **Where the Light Falls** is the creator-approved title of the first game, centered on Elias and Mira Varek.
 - The approved title artwork is `assets/images/Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
 - The wider universe has **no confirmed name**. **The Hollow Crown** was discussed but set aside because of existing media and game-name overlap.
 - **UNTITLED** remains the repository's historical working name.
 - The universe matters beyond its first game adaptation.
-- The story centers on **Elias Varek** (working name) and the unresolved disappearance of his 17-year-old younger sister, **Mira Varek**.
+- The story centers on **Elias Varek** (working name) and the unresolved disappearance of his younger sister, who died at 15, **Mira Varek**.
 - Elias is a compassionate but deeply traumatized young man; his sister was once his reason to keep living.
 - He grew up protecting/raising his sister in a dangerous impoverished urban community, amid moments of friendship and warmth.
 - Their contrasting personalities and a rooftop memory are central emotional anchors.
@@ -35,10 +33,10 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - **Elias clothing direction and palette approved (15 October 2026).** Graphite outfit sketch and colored material board are archived in the repository and shown in the concept book; see `characters/ELIAS_VAREK.md`.
 
 ## Mira Varek — confirmed identity and facial design exploration (15 October 2026)
-- **Confirmed canon:** Mira Varek is Elias's younger sister, age **17 at her disappearance**. Elias is approximately 23; their age gap is approximately six years.
+- **Confirmed canon:** Mira Varek is Elias's younger sister, age **15 at her death**. Elias is approximately 23; their age gap is approximately six years.
 - Two uploaded graphite portrait studies are archived: `assets/images/Graphite Portrait Studies on Aged Paper.png` (front and side) and `assets/images/Graphite Portrait Study Sheet.png` (multi-angle and facial details).
 - They explore a freckled youthful appearance, untidy dark hair tied back, and rough pencil-on-paper draftsmanship matching Elias's sketchbook approach.
-- **Status:** exploratory artwork uploaded and published, **not yet final canon**. Her name and age are confirmed; final appearance, clothing and fate remain open. The sibling relationship and her independent personality remain the confirmed foundations.
+- **Status:** exploratory artwork uploaded and published, **not yet final canon**. Her name and death at age 15 are confirmed; final appearance and clothing remain open. The exact circumstances of her death are unresolved. The sibling relationship and her independent personality remain the confirmed foundations.
 
 ## Connected city structure — confirmed (15 October 2026)
 - The monumental, sunlit upper districts and the densely inhabited lower districts are parts of **one enormous connected, vertically layered city**, not two unrelated cities. Great arches, bridges, foundations and intermediate inhabited levels physically connect them.
@@ -61,7 +59,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 
 ## Working / strongly favored
 - Older, historical-feeling **dark fantasy** rather than a modern-gun post-apocalypse; exact technology undecided.
-- The siblings' serious argument, Elias choosing not to follow, and her disappearance during a subsequent violent event.
+- **Historical premise, superseded:** Elias choosing not to follow Mira from the rooftop. Current canon is that they leave together; she is captured later during the uprising.
 - Powerful stable institutions/cities alongside ruined and dangerous regions.
 - Elias's previously discussed appearance and outfit (see character document) are an approved visual baseline, but setting-compatible revisions may be needed.
 
@@ -80,7 +78,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - Wider-universe name, map, calendar, technology level, and history of the world.
 - Nature, rules and frequency of the supernatural.
 - City name, precise geography and map, class structure, access between levels and institutional motives.
-- Parents' whereabouts and fate; Mira's individual aspirations, agency, and ultimate fate.
+- Parents' whereabouts and fate; Mira’s individual aspirations and agency; her death is confirmed, while its exact circumstances remain open.
 - Exact violent incident and surviving childhood friends.
 - Main plot beyond the sister search, factions and consequences.
 - How the current modern-inspired Elias outfit fits the older fantasy direction.
@@ -91,12 +89,12 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - Generic rich-evil/poor-good politics, monsters without purpose, or a simplistic 'city hides the truth' twist are insufficient.
 - A giant open world or a long rigid production plan is not the preferred approach.
 
-## Historical exploration — unreliable search for Mira (17 October 2026; superseded in part by confirmed canon above)
-- **New leading hypothesis, exploratory only:** Mira genuinely existed, with her own curiosity, adventurousness, ambitions and relationships. She may have died a few years before the present story, while Elias sincerely believes she disappeared and continues searching for her. Alternative explanations and her actual fate remain open.
+## Historical exploration — unreliable search for Mira (17 October 2026; historical, superseded where it conflicts with current canon)
+- **Historical hypothesis, now superseded:** Mira’s fate was once undecided. Current confirmed canon is that she died at 15, after being captured during the uprising; the exact circumstances and timing remain open.
 - **External / internal stories:** Elias searches for Mira, following leads and meeting people; his devotion, fear of abandonment and inability to imagine life without protecting her affect his choices. His emotional trajectory should include recovery, friendship, joy and setbacks, not monotonous deterioration.
 - **Perspective experiment:** Real childhood scenes and memories, including the rooftop, can be shown with emotional authenticity; Elias's later recollections may combine or distort genuine moments. Mira's own viewpoint, when used, should preserve her agency and avoid hiding information she would naturally know just to maintain a twist. Do not automatically assume a split personality, literal present-day apparitions, or that Mira never existed.
 - **Subtle retrospective foreshadowing:** Dialogue, pauses, facial reactions, conflicting recollections, and ambiguous responses should plausibly read one way before a revelation and another way afterward. People must react like people: some confront, help, avoid or become frustrated, rather than everyone speaking cryptically. The reader may understand the truth before Elias, shifting tension from finding Mira to how he will face it.
-- **Psychological credibility:** Trauma alone is not an adequate automatic explanation for an elaborate false reality. Research and carefully develop any memory/perception mechanism; supernatural explanations are possible but not decided. Avoid using mental illness merely as a sensational twist.
+- **Open future concept, not canon:** Any unreliable-memory or perception mechanism would require careful development; no such mechanism is currently established. Avoid using mental illness merely as a sensational twist.
 - **Other exploratory thread:** Elias and Mira would both potentially share any inherited family/upper-city connection. Elias might know something Mira does not, which combines with his traumatic upbringing to drive overprotectiveness; no secret, lineage, royalty or upper-city plot is confirmed. The creator considers a conventional hidden-royalty revelation too familiar.
 - **Inspirations, not templates:** *Call of Duty: Black Ops* (Mason/Reznov) and *Mr. Robot* (retrospectively legible subjective viewpoint). Do not copy their plots or use a dissociative-identity twist by default.
 - **Before deciding canon:** Develop an internally consistent true chronology of Mira's life, possible death/disappearance, Elias's perceptions, and who knows what. Test with an emotionally convincing scene that works even without a twist.
