@@ -36,14 +36,9 @@ Selected layered outfit: dirty-cream linen shirt, faded charcoal vest, muted gra
 - [First graphite outfit sketch](../assets/images/Rugged%20Adventurer%20Outfit%20Sketch.png)
 - [Refined color and texture clothing board](../assets/images/Elias%20Clothing%20Concept%20Board.png)
 
-## Silver pendant — narrative possibility (15 October 2026)
-**Established:** Elias carries a small circular silver pendant; his younger sister disappeared after a serious argument and Elias not following her. The scene itself has not been written.
+## Personal items
 
-**Strong working possibility, NOT canon:** The pendant once belonged to his sister and might be the only physical trace of her Elias found after her disappearance. He keeps it because it is a tangible connection to her, perhaps also because he fears losing that last trace. This idea is favored emotionally but not locked in.
-
-**Deliberately undecided:** Whether/how/where he found it; whether it was dropped, left deliberately, or moved by someone; the details of the argument, disappearance, and aftermath; the pendant's exact engraving and any symbolic or supernatural meaning. A star-and-crescent motif appeared in an exploratory generated board, **not approved canon**. Nothing about the pendant establishes the parents' fate, which remains unknown. Develop the disappearance scene and relationship before finalizing its design.
-
-Next artwork phase: individually explore already documented personal objects (pendant, ring, journal); their final design is not yet approved.
+Elias's established possessions and their design/story-status notes are documented separately in [Elias Varek — Personal Items](ELIAS_VAREK_ITEMS.md). This keeps the character dossier focused on his characterization and story. His pendant's possible connection to Mira remains a working possibility, not canon; its exact design and history are open.
 
 ## Inner life
 Elias experiences severe depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, emotional exhaustion, and difficulty imagining an identity beyond protecting his sister. He has sometimes struggled to want to exist; searching for his missing sister has been his sole reason to keep going.
