@@ -15,5 +15,7 @@
 11. **Critique weak ideas.** Challenge generic premises, easy morality, implausible motivations and unexplained world rules.
 12. **Keep the archive current.** Record new approvals, open questions, superseded ideas and links to assets.
 
+13. **Humanity before spectacle.** Ground architecture, social structures, characters and environments in believable human needs, choices and circumstances. Let visuals communicate lived-in places through composition, light and environmental storytelling. Beauty and hardship may coexist; added complexity is not automatically an improvement.
+
 ## Inspiration, not canon
 The Witcher 3 (moral quests, exploration), The Last of Us (relationships, animation), Metro (atmosphere), Twilight Princess (eerie fantasy), Andor (political humanity), Planet of the Apes (civilizations), and street-child stories from A Knight of the Seven Kingdoms.
