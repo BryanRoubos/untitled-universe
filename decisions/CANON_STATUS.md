@@ -9,7 +9,7 @@
 - **Project:** *Where the Light Falls* is the approved title of the central story. Its final medium is not decided.
 - **Characters and ages:** Elias Varek is about 23 in the present; Mira Varek was 15 at death, about two years earlier, when Elias was about 21. He effectively raised her. Their love is genuine, but his protectiveness sometimes restricts her independence.
 - **Home:** Before the uprising, Elias and Mira lived in a concealed vaulted shelter within the great viaducts' stone foundations. It was their home, not an occasional refuge.
-- **Birthday rooftop:** Mira shows Elias a beautiful city view. They argue about secrecy, his protectiveness and her autonomy. **Both leave together**; she does not die there.
+- **Mira’s birthday rooftop:** It is Mira’s birthday. She persuades a reluctant Elias to accompany her because it is her birthday, and shows him a beautiful city view. They argue about secrecy, his protectiveness and her autonomy. **Both leave together**; she does not die there.
 - **Faction:** A coercive lower-city organization exploits genuine inequality, controls parts of the local economy and plans armed uprising for its leaders' power. It does not represent all lower-city residents.
 - **Elias's work:** He has performed dangerous covert errands under leverage. A trusting, older childhood friend introduced him to the group without understanding its manipulation. The group promises freedom after a final job.
 - **Final job:** Elias opens a restricted upper-city passage believing it serves clandestine movement, unaware that faction leaders plan to use it for an attack. He does not knowingly choose to begin the uprising.

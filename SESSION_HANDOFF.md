@@ -11,7 +11,7 @@
 
 *Where the Light Falls* is an original, illustrated, dark-fantasy story-first project. The medium is undecided. The world consists of a physically connected vertical Gothic city with sunlit upper levels and densely inhabited lower neighborhoods. The lower city is not uniformly destroyed or evil.
 
-Elias (~23 in the present) searches for Mira, who was captured in an uprising about two years earlier. **Author-only ending spoiler:** Mira died after her initial capture, aged 15; Elias and readers learn near the ending. Elias unknowingly helped the faction enable the attack by opening a passage. On the earlier birthday rooftop, both siblings leave together; no false rooftop memory is canon.
+Elias (~23 in the present) searches for Mira, who was captured in an uprising about two years earlier. **Author-only ending spoiler:** Mira died after her initial capture, aged 15; Elias and readers learn near the ending. Elias unknowingly helped the faction enable the attack by opening a passage. On Mira’s birthday, she persuades a reluctant Elias to accompany her to the rooftop because it is her birthday. Both siblings leave together; no false rooftop memory is canon.
 
 **Latest approval:** Elias and Mira actually lived in the hidden vaulted shelter beneath the viaducts. `assets/images/Candlelit Medieval Stone Chamber.png` is the featured approved painterly illustration; `assets/images/Hidden Children’s Shelter Storyboard.png` is the architectural study. The furniture and exact floor plan remain exploratory.
 

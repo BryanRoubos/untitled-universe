@@ -6,7 +6,7 @@
 
 **Before the uprising:** Elias Varek, about 21, has effectively raised his sister Mira, 15, in a hidden shelter beneath the great viaducts. Their bond is loving and imperfect. His need to protect her can become controlling; she wants independence and her own friendships. Elias performs risky covert errands for a coercive lower-city faction, under leverage, to support their survival. A trusting childhood friend originally introduced him to the group.
 
-**The birthday rooftop:** Mira brings Elias to a rooftop to show him the city. They argue about secrecy, protection and her autonomy. **They leave the rooftop together**, with the disagreement unresolved. Mira does not die there.
+**Mira’s birthday rooftop:** Mira persuades a reluctant Elias to go to a rooftop with her on her birthday; he agrees because it is her birthday. She shows him the city. They argue about secrecy, protection and her autonomy. **They leave the rooftop together**, with the disagreement unresolved. Mira does not die there.
 
 **The final assignment:** The faction promises Elias release after one last job. He believes he is reopening a restricted upper-city passage for clandestine movement. The leaders deliberately intend it to enable their planned uprising. Elias does **not** know he is facilitating an attack.
 
