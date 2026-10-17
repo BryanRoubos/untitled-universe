@@ -22,3 +22,7 @@ They fight about his protectiveness, then leave the rooftop together, still upse
 
 ## Emotional goal
 Their story asks whether love can become control, whether guilt can be mistaken for responsibility, and whether Elias can someday choose life for reasons beyond saving her.
+
+## Journal — confirmed sibling event (17 October 2026)
+
+Elias's weathered leather journal is deeply personal. Mira secretly took it and read some of his private thoughts while she was alive, leaving a small drawing or message in its pages. Elias only discovers that she read it **after the uprising**, when he finds her contribution. This is a private, emotionally complicated boundary-crossing, not a clue that resolves her fate. The message's exact words, the drawing, what she read and the discovery scene are **open**. See [Elias's Personal Items](ELIAS_VAREK_ITEMS.md).

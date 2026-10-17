@@ -47,3 +47,7 @@ Append: date, decision, rationale, who approved it, affected files, and what rem
 - **Confirmed:** the birthday rooftop argument ends with both siblings leaving together. Mira does not die there. The proposed idea that Elias later recalls her leaving alone is retired and is not canon.
 - An older, kind but naive childhood friend brought Elias into the faction and mistakes its conditional acceptance for family. Name, survival and details remain open.
 - The lower city is alive before the rebellion; parts are ruined afterward, but the population is not uniformly absent. Ordinary civilians are as fully human as protagonists.
+
+## 17 October 2026 — Journal discovery confirmed
+
+**Creator-approved:** Elias keeps a deeply private journal. Mira secretly took and read it while she was alive and left a small drawing or message. Elias learns what she did **only after the uprising**. The exact content, appearance, discovery scene, and his reaction remain open. The moment is relational, not a clue to Mira's death. Synced to canon tracker, character/relationship documents, story outline and website.

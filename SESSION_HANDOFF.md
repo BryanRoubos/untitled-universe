@@ -20,6 +20,9 @@ The rooftop argument is a real memory: Elias and Mira argue, then leave together
 > **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 # Session Handoff
 
+**Journal canon — 17 October 2026:** Elias keeps a deeply private weathered leather journal. Mira secretly took and read it while alive and left a small drawing or message. He discovers her contribution **only after the uprising**. Exact words/drawing, contents, physical design, discovery scene and response remain open. The journal is not a plot-answer device. Next creative task: explore journal design and individual pages, without treating exploratory ideas as canon. See `characters/ELIAS_VAREK_ITEMS.md`.
+
+
 **17 October 2026 cleanup:** Elias's historical-fantasy clothing concept board is confirmed canonical costume; modern hoodie/jeans superseded. Societies/power documentation now includes the confirmed coercive lower-city faction and planned uprising, while institutional details remain open. The bronze Arch coin is established; denomination system open. Game-vision notes are archived exploration; medium undecided. New city and coin artwork belongs in `assets/images/`. Website reading order is chapters I–VI then Workshop.
 
 

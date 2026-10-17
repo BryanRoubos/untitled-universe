@@ -40,3 +40,7 @@ Years or another interval later (open), Elias continues searching, burdened by g
 - What does the sister want, independently of Elias?
 - How are player choices expressed, and which consequences persist?
 - What ending would honor complexity without a simplistic cure?
+
+## Confirmed journal discovery — 17 October 2026
+
+While Mira was alive, she secretly took and read Elias's deeply private journal and left a small drawing or message inside. Elias did not know she had done so and discovers the contribution **only after the uprising**. This discovery is part of the siblings' emotional story; it does not disclose Mira's fate or function as a secret explanation for the conflict. The specific message or image, page contents, discovery setting, timing within the post-uprising story, and Elias's reaction are **not decided**. This does not reinstate the rejected false-memory premise.

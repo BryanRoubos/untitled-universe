@@ -62,3 +62,7 @@ He devoted himself to keeping his sister safe, but his overprotectiveness constr
 
 ## Open
 Exact parents' fate, timeline, skills, profession, pendant/ring/journal significance, relationship network, and how his clothing maps to the world.
+
+## Journal — confirmed sibling event (17 October 2026)
+
+Elias's weathered leather journal is deeply personal. Mira secretly took it and read some of his private thoughts while she was alive, leaving a small drawing or message in its pages. Elias only discovers that she read it **after the uprising**, when he finds her contribution. This is a private, emotionally complicated boundary-crossing, not a clue that resolves her fate. The message's exact words, the drawing, what she read and the discovery scene are **open**. See [Elias's Personal Items](ELIAS_VAREK_ITEMS.md).

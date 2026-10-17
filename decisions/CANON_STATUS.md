@@ -4,6 +4,13 @@ The rooftop argument is a real memory: Elias and Mira argue, then leave together
 
 # Canon Status — Living Tracker
 
+## Confirmed — 17 October 2026: Elias's journal and Mira's secret contribution
+- **Elias's journal:** A deeply private personal possession. Mira secretly took it and read some of his private thoughts while alive, without his knowledge.
+- **Mira's contribution:** She left a small drawing or message inside. Elias discovers that she had read his journal only **after the uprising**.
+- **Narrative boundary:** The discovery is personal, not a reveal of her fate or an explanation for the uprising. The exact drawing/message, pages read, physical journal design, discovery scene, and his response remain **open**.
+- **Status:** Confirmed event; specifics exploratory/open. See [Personal Items](../characters/ELIAS_VAREK_ITEMS.md) and [Sibling Relationship](../characters/SIBLING_RELATIONSHIP.md).
+
+
 ## Confirmed update — 17 October 2026: costume, city politics and currency
 - **Elias costume:** The existing [Elias Clothing Concept Board](../assets/images/Elias%20Clothing%20Concept%20Board.png) is the canonical historical-fantasy outfit reference (selected layered outfit and palette); earlier modern hoodie-and-jeans clothing is superseded. His facial design is unchanged.
 - **Political conflict:** The coercive lower-city underworld faction, deliberate uprising, manipulation of Elias into enabling it, and destructive impact on ordinary civilians are confirmed. Government and organization details remain open. See [Societies and Power](../world/SOCIETIES_AND_POWER.md).

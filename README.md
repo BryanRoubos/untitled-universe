@@ -73,3 +73,7 @@ Reference: [Lone Adventurer Overlooking the Twilight Citadel](assets/images/Lone
 - The lower-city faction's deliberate rebellion, exploitation of Elias, and civilians' suffering are confirmed foundations; institutional details remain open. See [Societies and Power](world/SOCIETIES_AND_POWER.md).
 - The Arch is an established bronze everyday coin; wider monetary details remain open. The concept board and city illustration are stored in `assets/images/`.
 - The project remains **story-first, medium undecided**. The game-vision document is archived exploration, not a production commitment.
+
+## Journal canon — 17 October 2026
+
+Elias keeps a deeply private journal. Mira secretly took and read it while she was alive and left a small drawing or message. He discovers this only **after the uprising**. The exact pages, physical design and discovery scene remain open; the journal is a relationship detail, not a solution to the central mystery. See [Elias's Personal Items](characters/ELIAS_VAREK_ITEMS.md).

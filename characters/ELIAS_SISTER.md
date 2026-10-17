@@ -29,3 +29,7 @@ Develop her personal aspirations, friendships, values, fears and agency before t
 
 ## Open
 Final appearance, individual friendships, talents, goals, and what she wanted from the rooftop remain open. Mira’s death is confirmed; its exact circumstances and timing remain open. Her parents’ whereabouts and fate are unknown.
+
+## Journal — confirmed sibling event (17 October 2026)
+
+Elias's weathered leather journal is deeply personal. Mira secretly took it and read some of his private thoughts while she was alive, leaving a small drawing or message in its pages. Elias only discovers that she read it **after the uprising**, when he finds her contribution. This is a private, emotionally complicated boundary-crossing, not a clue that resolves her fate. The message's exact words, the drawing, what she read and the discovery scene are **open**. See [Elias's Personal Items](ELIAS_VAREK_ITEMS.md).

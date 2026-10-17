@@ -15,9 +15,11 @@ This file separates Elias's possessions from his character biography and clothin
 - **Open:** Engraving, origin, condition, and narrative significance.
 
 ## Weathered leather journal
-- **Status:** Present in the current visual reference; contents and history open.
-- **Appearance:** Weathered leather journal.
-- **Open:** Size, construction, contents, and narrative significance. Do not assume what it contains.
+- **Status:** Confirmed personal possession and confirmed sibling story event; exact physical design and contents remain open.
+- **Appearance:** Weathered leather journal; size, binding, page layout and construction are not yet approved.
+- **Confirmed:** Elias treats the journal as deeply private and personal. While she was alive, Mira secretly took it and read some of his private thoughts without his knowledge. She left a small drawing or message of her own inside. Elias discovers her contribution, and realizes she read the journal, **only after the uprising**. She did not tell him beforehand.
+- **Emotional purpose:** Their private boundary and differing needs matter: Mira's action is affectionate and curious but also an invasion of Elias's privacy. The discovery is a personal moment, **not evidence of Mira's fate** and not a shortcut to the uprising's mystery.
+- **Open:** The precise drawing or wording, which pages she read, how and when she took or returned the journal, the exact time/place of Elias's discovery after the uprising, his reaction, and the journal's physical details. Proposed shopping lists, sketches, city routes and a list of places Mira wanted to see are **exploratory**, not canon.
 
 ## Backpack
 - **Status:** Present in an earlier visual reference; whether it remains in the final historical-fantasy look is unresolved.
