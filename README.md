@@ -40,7 +40,7 @@ The authoritative, more detailed record is [Canon Status](decisions/CANON_STATUS
 | --- | --- |
 | [`index.html`](index.html) | GitHub Pages visual concept book |
 | [`assets/images/`](assets/images/) | All concept artwork and title images |
-| [`characters/`](characters/) | Elias, Mira and their relationship |
+| [`characters/`](characters/) | Elias, Mira and their relationship; Elias's personal items are tracked separately in [`ELIAS_VAREK_ITEMS.md`](characters/ELIAS_VAREK_ITEMS.md) |
 | [`world/`](world/) | Geography, society and open worldbuilding |
 | [`narrative/`](narrative/) | Story outline and scene explorations |
 | [`game-design/`](game-design/) | Game vision and scope |
