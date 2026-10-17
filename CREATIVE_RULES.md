@@ -14,8 +14,8 @@
 10. **Quality over scope.** Favor a small polished experience over a vast unfinished one.
 11. **Critique weak ideas.** Challenge generic premises, easy morality, implausible motivations and unexplained world rules.
 12. **Keep the archive current.** Record new approvals, open questions, superseded ideas and links to assets.
-
 13. **Humanity before spectacle.** Ground architecture, social structures, characters and environments in believable human needs, choices and circumstances. Let visuals communicate lived-in places through composition, light and environmental storytelling. Beauty and hardship may coexist; added complexity is not automatically an improvement.
+14. **Review before revising.** Before changing existing project material, identify the file and passage being reviewed. Explain what appears inconsistent with current canon, why, and whether the evidence is confirmed or uncertain. Ask the creator before changing established characterization, story decisions, or other canon. Do not remove or reinterpret approved details as part of a consistency update without explicit approval. After approved changes, report what changed and what was preserved.
 
 ## Inspiration, not canon
 The Witcher 3 (moral quests, exploration), The Last of Us (relationships, animation), Metro (atmosphere), Twilight Princess (eerie fantasy), Andor (political humanity), Planet of the Apes (civilizations), and street-child stories from A Knight of the Seven Kingdoms.
