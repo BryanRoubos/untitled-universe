@@ -89,3 +89,7 @@ Elias keeps a deeply private journal. Mira secretly took and read it while she w
 ## Website reading and new scene artwork — 17 October 2026
 
 Chapter I introduces the established month **Kareth** in the city's everyday-life details (the wider calendar remains open). Chapter II groups Elias's journal narrative with the [journal spread](assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png) (approved visual direction) and [The Wayfarer’s Journal at Dusk](assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png) (exploratory scene concept). The pendant's Mira ownership and role as Elias's only keepsake after her disappearance are confirmed; its origin and transfer remain open.
+
+## Website book-format review — 17 October 2026
+
+The illustrated concept book now keeps the lower-city monochrome/painted pair and its process note together. The Arch coin's concept board has a separate caption explaining that the coin design is confirmed but the illustrated architecture is not a literal map, mint or government. Kareth remains a canonical month name with the wider calendar open. Reader improvements include a floating chapter selector, reading-progress indicator, clearer chapter turns, image captions and responsive styling. The website keeps Mira's pendant ownership and Elias's only remaining keepsake as confirmed canon.
