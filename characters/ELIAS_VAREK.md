@@ -25,9 +25,9 @@ When Elias returns, he sees civilians fleeing amid killings and burning streets.
 
 Mira is an ordinary civilian caught in mass capture, not someone singled out by destiny, special bloodline, or supernatural status. The lower city contains ordinary families, friendships, markets, and daily life; it should not be portrayed as uniformly criminal or desolate. The uprising is deliberately planned by the coercive organization, which exploits real grievances against discriminatory upper-city power. Neither social level is morally uniform.
 
-## Earlier visual baseline and continuity
+## Superseded earlier visual baseline
 
-An earlier documented baseline describes Elias in a faded black hoodie, worn dark-brown jacket, dark jeans, practical boots, and backpack, alongside his pendant, engraved silver ring, and weathered leather journal. The newer historical-fantasy outfit below is also approved. Whether the older clothing belongs to another period or is fully retired has not been decided; retain it as historical design documentation rather than silently treating it as current clothing.
+An earlier design used a faded black hoodie, worn dark-brown jacket, dark jeans, practical boots, and backpack. That look has been superseded by the approved historical-fantasy outfit below; it is retained here only as an earlier design record, not as an unresolved alternative or current outfit. The pendant, engraved silver ring, and weathered leather journal remain documented personal artifacts.
 
 ## Approved visual direction
 
@@ -40,7 +40,7 @@ Concept 03 is the definitive facial design reference: youthful, naturally handso
 
 ### Clothing
 
-The approved clothing direction is a practical, historical-feeling set of worn layers: a dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers, and worn brown leather boots. The materials should look inexpensive and repeatedly used or repaired, not like a stylish heroic costume. This direction is separate from his facial design. The relationship between this outfit and the earlier hoodie/jacket baseline remains undecided.
+The approved clothing direction is a practical, historical-fantasy outfit: a dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers, and worn brown leather boots. The materials should look inexpensive and repeatedly used or repaired, not like a stylish heroic costume. This is Elias's current approved clothing direction; the earlier hoodie/jacket look has been superseded. Clothing remains separate from his facial design.
 
 - [First graphite outfit sketch](../assets/images/Rugged%20Adventurer%20Outfit%20Sketch.png)
 - [Refined colour and texture clothing board](../assets/images/Elias%20Clothing%20Concept%20Board.png)
@@ -81,7 +81,6 @@ Avoid solving Elias's pain through a single romance or revelation. Allow him mis
 - The origins and history of Mira's pendant, the circumstances in which Elias finds it, and the histories or significance of the ring and journal.
 - His relationship network beyond the confirmed older childhood friend.
 - The parents' fate, city and faction names, detailed political history, and supernatural rules.
-- How the approved clothing direction fits the city's final historical and cultural details.
 
 ## Canon rule
 
