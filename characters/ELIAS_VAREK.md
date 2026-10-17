@@ -1,63 +1,70 @@
-## Canon correction — 17 October 2026
-
-The rooftop argument is a real memory: Elias and Mira argue, then leave together. The previously proposed false memory of Mira leaving alone is **retired, not canon**. Elias's final job unknowingly enables the uprising; he sees Mira captured, and she dies later. His present search is driven by missing information and hope, not confirmed fabricated memories. Repeated flashbacks with new context are an optional narrative technique. Genuinely unreliable memories remain a possible future concept, not current canon. This correction supersedes older conflicting passages below.
-
-## Story foundation — confirmed 17 October 2026 (author spoilers; supersedes older conflicting notes)
-- **Mira Varek dies at 15**, about two years before the present, when Elias is about 21; he is about 23 in the present. Elias and the audience discover her death **together near the end**, with space afterward for Elias's response. The story begins with Elias searching in the belief she is alive. Mira's earlier independent viewpoint is truthful; it may show her alive during and briefly after the catastrophe without revealing her death.
-- **Birthday rooftop:** Mira takes Elias to a beautiful view. They argue about his protectiveness, secrets and their lives; **they leave together**, unreconciled. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. She **does not die on the rooftop**. Exact dialogue remains open; no memory distortion is currently part of canon.
-- **The city:** one enormous physically connected, vertically layered Gothic city, bright upper districts and crowded lower neighborhoods. Before the rebellion the lower streets are alive with markets, friendships and ordinary families. The fighting later devastates parts of their home district; not every lower district is deserted.
-- **Political conflict:** a coercive lower-city underworld organization controls parts of the economy, exploiting genuine grievances against discriminatory upper-city power. Its leaders **deliberately plan a rebellion** for greater control, without representing most lower-city civilians. Upper-city retaliation and armed conflict bring disaster to neighborhoods whose residents mostly want ordinary lives. Neither social level is morally uniform.
-- **Elias and the organization:** they hold leverage over him; the exact leverage is undecided. He has performed covert, risky errands for years to provide for Mira. His particular strengths are climbing, stealth, observing guards, and knowing the city's layered passages. He is skilled through experience, not chosen or superhuman. The organization sees him as useful and expendable and promises **one final job** will free him.
-- **Final job:** Elias believes he is reopening a restricted upper-city service/smuggling passage. In reality the organization knowingly uses his action to enable the planned armed uprising, expecting severe danger and caring little whether he survives. Elias does **not** know he is starting a war. The promise of freedom is manipulative; the precise access mechanism, tactical plan and organization's intended treatment of him afterward remain to develop.
-- **Catastrophe:** Elias returns to civilians fleeing, killings and burning streets, desperately searching for Mira. He catches an unclear glimpse of a girl being taken with other civilians, understood in the working account to be Mira; he cannot reach her. Mira is **not singled out for noble blood, destiny or special status**: she is an ordinary civilian caught in mass capture. She survives the initial chaos and later dies after capture, but the exact cause and timing are **not yet fixed**. Elias never witnesses her death.
-- **Elias's emotional core:** he effectively raised Mira because no one reliably cared for him. He loves her and treats protecting her as his duty and identity, but neglects his own needs, withdraws from friends, fails promises when overwhelmed, and has difficulty accepting affection or believing he deserves love. His care can become controlling; he is introspective but has little sense of self outside guardianship.
-- **Mira:** loves Elias and tells him so, sees his sadness without needing to explain it, wants autonomy and her own life, and sometimes resents his overprotection. She has independent agency, friends and perspective. Their conflict is not a lack of love.
-- **Older friend (unnamed):** knew Elias in childhood; they drifted apart because Elias isolated himself. Kind, excessively friendly, trusting, sometimes simple-minded and emotionally unreflective; raised without stability, he sees the underworld group as his family and does not recognize its manipulation. He introduces Elias to their work without grasping the harm. His survival and later role remain open.
-- **Narrative ethics:** protagonists are important to the audience, not cosmically important; other civilians have equally real lives. Memory clues must be fair; avoid fabricated Mira POV or withholding information she would naturally think. The medium, city and faction names, parents' fate, exact death circumstances, detailed politics and supernatural rules remain open.
-
----
-
-> **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 # Elias Varek
 
-**Name:** Elias Varek (working)  
-**Role:** Central protagonist  
-**Age:** Approximately 23  
-**Status:** Core characterization confirmed; world integration and backstory details open
+## Canon correction — 17 October 2026
 
-## Visual reference — approved baseline
-Youthful, handsome, slim, pale skin; tired brown eyes; messy medium-length chestnut-brown hair; subtle stubble; healed eyebrow scar. Faded black hoodie under worn dark-brown jacket, dark jeans, practical boots, backpack, small circular silver pendant, engraved silver ring, weathered leather journal.
+This document has been reconciled with the current story decisions. Older material describing Elias searching after Mira's disappearance, a rooftop separation, or a silver pendant, ring, and journal as established personal artifacts is superseded. Do not reuse those details as current canon without Bryan's explicit approval.
 
-**Continuity flag:** This visual baseline was approved earlier, but the newer historical-fantasy direction may call for a carefully considered costume adaptation. Do not change his recognizable face without approval. **Approved on 15 October 2026:** Concept 03 is the definitive facial design reference. It features a youthful, naturally handsome face, tired brown eyes, slightly oily and unwashed-looking chestnut hair, subtle eyebrow scar, and light uneven stubble. This worn, under-cared-for appearance reflects Elias's limited resources and his tendency to care for others before himself. Grooming may vary across story periods. Two approved visual assets exist in the creative session: the colored Concept 03 character study and a rough graphite first-exploration sketch (side profile and front face). **Image files are stored in this repository:** [Concept character study](../assets/images/Graphite%20Character%20Study%20Sheet.png) and [early graphite portrait studies](../assets/images/Graphite%20Portrait%20Studies%20on%20Textured%20Paper.png). They are displayed in the public concept book.
+## Core profile
 
-## Clothing design — approved studies (15 October 2026)
-Selected layered outfit: dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers and worn brown leather boots. Practical, repeatedly repaired and inexpensive rather than stylish. Separate from facial design and accessories.
+- **Name:** Elias Varek (working)
+- **Role:** Central protagonist
+- **Age:** Approximately 23 in the present story; approximately 21 when Mira died.
+- **Core characterization:** Elias effectively raised his younger sister, Mira, in the absence of reliable parental care. He loves her deeply and treats protecting her as his duty and identity, but his care can become controlling. He neglects his own needs, withdraws from friends, can fail promises when overwhelmed, and struggles to accept affection or imagine a self beyond guardianship.
+- **Skills:** Climbing, stealth, observing guards, and navigating the city's layered passages. These are practical skills learned through experience, not supernatural gifts or signs that he is chosen.
+- **Visual baseline:** Concept 03 is the approved facial reference. Preserve his recognizable face unless Bryan explicitly approves a change.
+
+## Current story foundation
+
+Mira Varek died at fifteen, about two years before the present story. Elias begins the story searching for her because he believes she may still be alive. He and the audience learn the truth together near the ending, with room afterward for his response.
+
+On Mira's birthday, she takes Elias to a rooftop overlooking the city. They argue about his protectiveness, secrets, and her need to make her own choices. They leave together, still unreconciled. The idea that Elias remembers her leaving alone is retired and is not canon. Mira does not die on the rooftop.
+
+For years Elias has performed covert, risky errands for a coercive lower-city organization, which holds leverage over him. He believes one final job will free him. He is told he is reopening a restricted upper-city service or smuggling passage; the organization knowingly uses his action to enable its planned armed uprising. Elias does not know he is helping start a war.
+
+When Elias returns, he sees civilians fleeing amid killings and burning streets. He catches an unclear glimpse of a girl being taken with other civilians and cannot reach her; the working account understands the girl to be Mira. Mira survives the initial chaos and later dies after capture. Elias never witnesses her death. The exact cause and timing of her death remain undecided.
+
+Mira is an ordinary civilian caught in mass capture, not someone singled out by destiny, special bloodline, or supernatural status. The lower city contains ordinary families, friendships, markets, and daily life; it should not be portrayed as uniformly criminal or desolate. The uprising is deliberately planned by the coercive organization, which exploits real grievances against discriminatory upper-city power. Neither social level is morally uniform.
+
+## Approved visual direction
+
+### Face
+
+Concept 03 is the definitive facial design reference: youthful, naturally handsome face; tired brown eyes; chestnut-brown hair that looks slightly oily or unwashed; a subtle eyebrow scar; and light, uneven stubble. His worn, under-cared-for appearance reflects limited resources and his tendency to prioritize others over himself. Grooming can vary by story period, but his recognizable face should not change without approval.
+
+- [Approved character study](../assets/images/Graphite%20Character%20Study%20Sheet.png)
+- [Earlier graphite portrait studies](../assets/images/Graphite%20Portrait%20Studies%20on%20Textured%20Paper.png)
+
+### Clothing
+
+The approved clothing direction is a practical, historical-feeling set of worn layers: a dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers, and worn brown leather boots. The materials should look inexpensive and repeatedly used or repaired, not like a stylish heroic costume. This direction is separate from his facial design.
 
 - [First graphite outfit sketch](../assets/images/Rugged%20Adventurer%20Outfit%20Sketch.png)
-- [Refined color and texture clothing board](../assets/images/Elias%20Clothing%20Concept%20Board.png)
+- [Refined colour and texture clothing board](../assets/images/Elias%20Clothing%20Concept%20Board.png)
 
-## Silver pendant — narrative possibility (15 October 2026)
-**Established:** Elias carries a small circular silver pendant; his younger sister disappeared after a serious argument and Elias not following her. The scene itself has not been written.
+## Personal artifacts and accessories
 
-**Strong working possibility, NOT canon:** The pendant once belonged to his sister and might be the only physical trace of her Elias found after her disappearance. He keeps it because it is a tangible connection to her, perhaps also because he fears losing that last trace. This idea is favored emotionally but not locked in.
+**No specific personal artifact is currently established as canon in this document.** Earlier references to a small circular silver pendant, an engraved silver ring, and a weathered leather journal are outdated and must not be presented as approved facts or illustrated as established character details.
 
-**Deliberately undecided:** Whether/how/where he found it; whether it was dropped, left deliberately, or moved by someone; the details of the argument, disappearance, and aftermath; the pendant's exact engraving and any symbolic or supernatural meaning. A star-and-crescent motif appeared in an exploratory generated board, **not approved canon**. Nothing about the pendant establishes the parents' fate, which remains unknown. Develop the disappearance scene and relationship before finalizing its design.
+The artifacts Elias carries need to be recovered from the latest approved discussion before this section is filled in. Do not invent replacements, symbolic meanings, engravings, origins, or links to Mira. Once the actual decisions are confirmed, document each item's appearance, why Elias carries it, and whether its significance is established or still open. Artwork for these artifacts has not yet been created or approved.
 
-Next artwork phase: individually explore already documented personal objects (pendant, ring, journal); their final design is not yet approved.
+## Inner life and writing guidance
 
-## Inner life
-Elias experiences severe depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, emotional exhaustion, and difficulty imagining an identity beyond protecting his sister. He has sometimes struggled to want to exist; searching for his missing sister has been his sole reason to keep going.
+Elias is compassionate, attentive, generous, capable of affection, dry humour, and fleeting joy. He can care for other people more easily than himself. He instinctively protects and comforts, then may withdraw when intimacy feels dangerous. He experiences depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, and emotional exhaustion; his suffering should be conveyed through behaviour, body language, practical caretaking, and choices rather than treated as a special power.
 
-This does **not** make him unkind or emotionless. He is compassionate, attentive, generous, capable of affection, dry humor and fleeting joy. He can care for someone else more easily than himself. He instinctively protects and comforts, then withdraws when intimacy feels dangerous.
+His central contradiction is that he devoted himself to keeping Mira safe, but his overprotectiveness also constrained her. Their love is real, and so are their conflicts. Mira has her own desires, agency, friendships, and perspective; she is not merely a motivation for Elias.
 
-## Foundational contradiction
-He devoted himself to keeping his sister safe, but his overprotectiveness constrained her. The one time he did not follow her after a fight became the moment he cannot forgive himself for.
+Avoid solving Elias's pain through a single romance or revelation. Allow him mistakes, tenderness, friendship, humour, and moments of ordinary joy.
 
-## Writing and performance notes
-- Reveal his internal state through sleep, vigilance, hesitation, body language, practical caretaking and choices.
-- Avoid turning his pain into a special power or solving it through a single romance or revelation.
-- Allow mistakes, tenderness, friendships and humor.
-- His sister must have her own desires and decisions, not exist merely to motivate him.
+## Still open
 
-## Open
-Exact parents' fate, timeline, skills, profession, pendant/ring/journal significance, relationship network, and how his clothing maps to the world.
+- The exact leverage the organization holds over Elias.
+- The detailed mechanics of the final job and the organization's intended treatment of him afterward.
+- The precise circumstances and timing of Mira's death.
+- Elias's personal artifacts and accessories: their identities, appearance, origins, and significance must be confirmed from the latest approved discussion.
+- His relationship network beyond the confirmed older childhood friend.
+- The parents' fate, city and faction names, detailed political history, and supernatural rules.
+- How the approved clothing direction fits the city's final historical and cultural details.
+
+## Canon rule
+
+When this file conflicts with the 17 October 2026 canon correction or a newer explicitly approved decision, the newer approved decision takes precedence. Do not turn an open question or an earlier visual experiment into canon without Bryan's approval.
