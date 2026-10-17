@@ -15,7 +15,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 
 > **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 ## Confirmed creative direction
-- **Where the Light Falls** is the creator-approved title of the first game, centered on Elias and Mira Varek.
+- **Where the Light Falls** is the creator-approved title for the central story project, centered on Elias and Mira Varek. The project's medium and final form are deliberately undecided.
 - The approved title artwork is `assets/images/Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
 - The wider universe has **no confirmed name**. **The Hollow Crown** was discussed but set aside because of existing media and game-name overlap.
 - **UNTITLED** remains the repository's historical working name.
@@ -82,7 +82,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - Exact violent incident and surviving childhood friends.
 - Main plot beyond the sister search, factions and consequences.
 - How the current modern-inspired Elias outfit fits the older fantasy direction.
-- Exact game genre mechanics, combat and playable opening.
+- The project's medium and final form; do not presume a game, book, or other format. Gameplay mechanics, combat, and prototype scope are not active commitments while this remains undecided.
 
 ## Rejected or superseded directions
 - A strictly modern Metro-style post-apocalyptic setting is no longer the leading direction.
