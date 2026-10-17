@@ -48,3 +48,9 @@ Generated concept art does not become canon automatically. Keep physical design 
 ### Date notation in the approved concept
 
 **Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**. The rest of the concept illustration's entries and drawings remain exploratory.
+
+## Elias writing at dusk — scene concept (17 October 2026)
+
+![The Wayfarer's Journal at Dusk](../assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png)
+
+**Status: exploratory scene concept, not a confirmed story event.** The uploaded painting visualizes Elias writing privately in his journal amid the city's layered Gothic architecture and warm artificial lights. The established facts are his possession of a deeply private journal and Mira's secret contribution/discovery after the uprising. The painting does **not** establish the exact location, timing, lighting, actions on a particular day, or the contents of the entry. See the approved journal spread above for the handwriting/art-direction baseline.

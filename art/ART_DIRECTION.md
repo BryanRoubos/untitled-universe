@@ -104,3 +104,9 @@ The creator explicitly confirmed the [Elias Clothing Concept Board](../assets/im
 ![Journal spread](../assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png)
 
 **Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events.
+
+## The Wayfarer's Journal at Dusk — uploaded scene concept (17 October 2026)
+
+![Elias writing in his journal](../assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png)
+
+**Exploratory scene illustration**, now filed with other artwork: Elias writes in a weathered journal against the city's stacked arches and bridges, with warm lamp glow and painterly, rough-edged treatment. It is a mood and character study, not confirmation of a specific place, date, or plot scene. Preserve the established concept-art direction; the journal spread's handwriting contrast is the approved reference. Kareth is an established month name, but the journal illustration's precise date remains illustrative only.

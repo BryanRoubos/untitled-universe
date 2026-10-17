@@ -59,3 +59,7 @@ Append: date, decision, rationale, who approved it, affected files, and what rem
 ## 17 October 2026 — Kareth approved
 
 The creator approved **Kareth** as a canonical month name. The rest of the calendar remains open. “17th of Kareth” on the journal concept is a valid sample date, not an established date of any event.
+
+## 17 October 2026 — Website chapter and uploaded artwork synchronization
+
+Moved `The Wayfarer’s Journal at Dusk.png` into `assets/images/The Wayfarer’s Journal at Dusk.png` and placed it in Elias's Personal Artifacts section as **exploratory scene art**. Added Kareth to Chapter I as confirmed month vocabulary, while leaving the calendar open. Corrected the website's overstatement about the pendant belonging to Mira to match the items dossier. Existing journal spread remains approved *visual concept*, not canon literal page content.

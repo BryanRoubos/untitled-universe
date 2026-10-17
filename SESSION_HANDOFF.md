@@ -1,3 +1,5 @@
+**Website/artwork sync (17 October 2026):** Uploaded `The Wayfarer’s Journal at Dusk.png` moved to `assets/images/The Wayfarer’s Journal at Dusk.png`; shown in Elias's Chapter II as exploratory scene art, not a confirmed event. Chapter I explains canonical month name Kareth, with calendar specifics open. Website pendant description corrected to working Mira connection per items dossier. Journal spread retains approved visual direction, but literal text/date not canon.
+
 
 **Calendar update (17 October 2026):** **Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**.
 

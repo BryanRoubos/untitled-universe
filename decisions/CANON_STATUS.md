@@ -1,3 +1,9 @@
+## Website and scene-art synchronization — 17 October 2026
+
+- **Kareth: confirmed month name**, represented in Chapter I's everyday-life worldbuilding. Its place in the year, season, duration and history remain open; “17th of Kareth” is only an example date.
+- **The Wayfarer’s Journal at Dusk:** [scene illustration](../assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png) is **exploratory concept art**, not a canon event or confirmed location. It belongs in Elias's Chapter II beside the approved journal-spread concept.
+- **Pendant status correction:** The personal-items dossier records Elias's circular silver pendant as an established possession; its connection to Mira is a **working possibility**, not confirmed. The website now matches that status.
+
 
 ## Calendar decision — Kareth (17 October 2026)
 

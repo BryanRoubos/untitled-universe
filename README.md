@@ -85,3 +85,7 @@ Elias keeps a deeply private journal. Mira secretly took and read it while she w
 ## Calendar note — Kareth
 
 **Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**.
+
+## Website reading and new scene artwork — 17 October 2026
+
+Chapter I introduces the established month **Kareth** in the city's everyday-life details (the wider calendar remains open). Chapter II groups Elias's journal narrative with the [journal spread](assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png) (approved visual direction) and [The Wayfarer’s Journal at Dusk](assets/images/The%20Wayfarer%E2%80%99s%20Journal%20at%20Dusk.png) (exploratory scene concept). The website's pendant description matches the personal-items dossier: a Mira connection is a working idea, not confirmed.
