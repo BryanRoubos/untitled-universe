@@ -4,7 +4,7 @@ The rooftop argument is a real memory: Elias and Mira argue, then leave together
 
 ## Story foundation — confirmed 17 October 2026 (author spoilers; supersedes older conflicting notes)
 - **Mira Varek dies at 15**, about two years before the present, when Elias is about 21; he is about 23 in the present. Elias and the audience discover her death **together near the end**, with space afterward for Elias's response. The story begins with Elias searching in the belief she is alive. Mira's earlier independent viewpoint is truthful; it may show her alive during and briefly after the catastrophe without revealing her death.
-- **Birthday rooftop:** Mira takes Elias to a beautiful view. They argue about his protectiveness, secrets and their lives; **they leave together**, unreconciled. Elias later incorrectly remembers her leaving alone. She **does not die on the rooftop**. Exact dialogue and cause of the memory distortion remain open.
+- **Birthday rooftop:** Mira takes Elias to a beautiful view. They argue about his protectiveness, secrets and their lives; **they leave together**, unreconciled. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. She **does not die on the rooftop**. Exact dialogue remains open; no memory distortion is currently part of canon.
 - **The city:** one enormous physically connected, vertically layered Gothic city, bright upper districts and crowded lower neighborhoods. Before the rebellion the lower streets are alive with markets, friendships and ordinary families. The fighting later devastates parts of their home district; not every lower district is deserted.
 - **Political conflict:** a coercive lower-city underworld organization controls parts of the economy, exploiting genuine grievances against discriminatory upper-city power. Its leaders **deliberately plan a rebellion** for greater control, without representing most lower-city civilians. Upper-city retaliation and armed conflict bring disaster to neighborhoods whose residents mostly want ordinary lives. Neither social level is morally uniform.
 - **Elias and the organization:** they hold leverage over him; the exact leverage is undecided. He has performed covert, risky errands for years to provide for Mira. His particular strengths are climbing, stealth, observing guards, and knowing the city's layered passages. He is skilled through experience, not chosen or superhuman. The organization sees him as useful and expendable and promises **one final job** will free him.
@@ -17,8 +17,7 @@ The rooftop argument is a real memory: Elias and Mira argue, then leave together
 
 ---
 
-> **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
-
+> **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 # Session Handoff
 
 **Last updated:** 2026-10-15
@@ -31,7 +30,7 @@ The creator confirmed that the monumental, sunlit upper districts in the title a
 
 ## Existing approved creative work
 - Elias Varek: Concept 03 face and historical-feeling layered clothing/color direction approved; pendant, ring and journal design/story details still open.
-- Mira Varek: name and age 17 at disappearance confirmed; graphite facial explorations are **not final**.
+- Mira Varek: name and death at age 15 confirmed; graphite facial explorations are **not final**.
 - Lower city: monumental arches, stacked homes, market life and warmth among hardship approved as visual direction.
 - Hidden children's shelter: concealed rubble-covered approach and small enclosed chamber approved as visual exploration; precise role and location open.
 - Game title and gold title artwork approved; first game's exact plot and gameplay prototype still in development.
