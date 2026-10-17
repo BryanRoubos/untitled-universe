@@ -1,3 +1,15 @@
+## Approved master illustration style — 17 October 2026
+
+**Creator-approved visual style references (two complementary masters):**
+1. `assets/images/Elias and Mira’s Worn Journal Spread.png` — physical artifacts, intimate memory, worn parchment, rough ink/graphite, layered torn-paper edges, imperfect handwriting; Elias's hand controlled and Mira's hand playful and visibly messier.
+2. `assets/images/The Wayfarer’s Journal at Dusk.png` — finished narrative illustration: hand-painted, tactile gothic fantasy; expressive human anatomy, soft painterly faces, visible irregular brushwork, warm amber lantern light against deep charcoal and muted blue-gray city shadows, layered arches and lived-in streets, restrained sepia paper edges.
+
+**Standard for new finished artwork:** Painterly storybook/concept-book illustration, not photorealistic game-render imagery. Cohesive warm ochre/umber, soot/charcoal, aged parchment and cool blue-gray accents. Use tactile imperfect strokes, convincing architectural mass, selective fine detail, and intimate human scale. Do not homogenize every image into a parchment frame: reserve torn-page treatments for suitable illustrations and artifacts. Pencil/graphite model sheets may remain monochrome as a deliberate *study* format, provided character identity matches finished scenes.
+
+**Continuity lock:** Elias's approved Concept 03 facial study and clothing board are the identity/costume authorities; do not redesign his face or replace his historical-fantasy clothing when repainting scenes. Mira's face is not final: do not silently establish one. Keep one physically connected, layered gothic city with inhabited lower levels and monumental arches, not an approved street map. Depicted specific landmarks, symbols, political institutions, text and story events remain exploratory unless separately approved.
+
+**Remake queue (proposed, not yet approved replacements):** (1) lower-city photorealistic environment, (2) Elias city overlook with character correction, (3) annotated city overview with canon-safe labels, (4) additional painterly character-color study preserving Concept 03. Retain originals until each new image is reviewed and explicitly accepted. Style approval does **not** canonize literal journal pages or the dusk-writing scene as an event.
+
 # Art Direction and References
 
 **Status:** Tone, Elias's Concept 03 face and clothing direction approved; Mira's portrait studies and world details exploratory.
