@@ -59,13 +59,9 @@ The weathered leather journal remains in Elias's documented personal items. Its 
 
 Keep these items in character documentation and relevant website material. Do not remove them simply because some details remain unresolved; do not invent additional history or symbolism.
 
-## Inner life and writing guidance
+## Personal items
 
-Elias experiences severe depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, emotional exhaustion, and difficulty imagining an identity beyond protecting his sister. He has sometimes struggled to want to exist; searching for Mira is his only reason to keep going. His depression is not explained solely by Mira's disappearance. Convey his suffering through behaviour, body language, practical caretaking, sleep, vigilance, hesitation, and choices rather than treating it as a special power.
-
-This does not make Elias unkind or emotionless. He is compassionate, attentive, generous, capable of affection, dry humour, and fleeting joy. He can care for others more easily than himself. He instinctively protects and comforts, then may withdraw when intimacy feels dangerous.
-
-His central contradiction is that he devoted himself to keeping Mira safe, but his overprotectiveness also constrained her. Their love is real, and so are their conflicts. Mira has her own desires, agency, friendships, and perspective; she is not merely a motivation for Elias.
+Elias's established possessions and their design/story-status notes are documented separately in [Elias Varek — Personal Items](ELIAS_VAREK_ITEMS.md). This keeps the character dossier focused on his characterization and story. His pendant's possible connection to Mira remains a working possibility, not canon; its exact design and history are open.
 
 Avoid solving Elias's pain through a single romance or revelation. Allow him mistakes, tenderness, friendship, humour, and moments of ordinary joy.
 

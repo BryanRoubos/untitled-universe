@@ -26,7 +26,7 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 
 | 2026-10-15 | Historical entry: creator confirmed **Mira Varek**, then recorded as age **17 at disappearance** | **Superseded on 2026-10-17:** Mira died at 15; capture and later death are confirmed, while exact death circumstances remain open |
 
-| 2026-10-15 | Creator approved **Where the Light Falls** as the first game's title; wider-universe name remains open after setting aside **The Hollow Crown** | First game title confirmed; universe name open |
+| 2026-10-15 | Creator approved **Where the Light Falls** as the title then described as the first game's title; wider-universe name remained open after setting aside **The Hollow Crown** | Historical record of the title decision only; the project's medium and final form are now undecided |
 | 2026-10-15 | Creator approved the gold title-art logo with the monumental city, circular emblem and weathered serif lettering; uploaded `assets/images/Where the Light Falls_ Citadel of Gold.png` | Approved title artwork; displayed on concept-book website |
 
 | 2026-10-15 | Creator established that the monumental upper city and inhabited lower city are one physically connected, vertically layered city; uploaded `assets/images/Where the Light Falls.png` to illustrate their relationship | Connected city structure confirmed; artwork details and political/social history open |

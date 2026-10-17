@@ -80,3 +80,17 @@ Record creator, license, original URL and allowed uses for every third-party ass
 Reference: [Lone Adventurer Overlooking the Twilight Citadel](../Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
+
+## The Arch coin — established concept canon (17 October 2026)
+
+**Canon status:** The city uses a bronze coin known as an **Arch**. Its defining visual direction—a worn bronze coin bearing the city's architectural arch motif—is established canon. The concept board below records the approved core direction; it is not a claim that every scratch, relief line, scale note or presentation detail is immutable.
+
+### Established visual direction
+A modest, everyday bronze coin, worn through ordinary handling. Its central architectural arch connects the coin to the city's monumental arches, layered masonry and interconnected structures. The coin should feel like a familiar object used in markets and daily exchanges, not a pristine commemorative medal or a miniature map of the city. Keep future refinements consistent with the established illustrated concept-art style of *Where the Light Falls*: painterly, tactile and atmospheric rather than photorealistic.
+
+### Details still open
+The wider currency system has not been defined. The denominations, relative values, other coin types, exchange relationships and any broader minting or monetary history remain undecided. Small refinements to the coin's exact execution may be made, but should preserve the recognizable bronze Arch concept unless the creator deliberately revises it.
+
+### Approved concept artwork
+- [Arch City Coin concept board](../Arches_%20City%20Coin%20Concept%20Sheet.png) — the approved visual reference for the coin's core design direction.
+- The board includes illustrative views and context; treat those as design guidance, not as separate worldbuilding facts unless explicitly approved.
