@@ -74,3 +74,9 @@ Record creator, license, original URL and allowed uses for every third-party ass
 - The panoramic image is a **visual study**, not a precise canonical city map. Its text annotations (government, noble houses, cathedrals, workshops, waterfalls, etc.) are not individually approved world facts.
 - Draw on *Arcane* for thematic contrast and humane complexity, without copying its geography, political factions, visual designs or story.
 - Preserve the approved lower-city sense of ordinary life, markets, children and community beneath the massive architecture.
+
+## Approved atmospheric city concept — 17 October 2026
+
+Reference: [Lone Adventurer Overlooking the Twilight Citadel](../Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
+
+**Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
