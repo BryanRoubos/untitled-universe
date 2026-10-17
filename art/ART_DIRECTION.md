@@ -81,16 +81,16 @@ Reference: [Lone Adventurer Overlooking the Twilight Citadel](../Lone%20Adventur
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
 
-## National coin — architectural concept exploration (17 October 2026)
+## The Arch coin — established concept canon (17 October 2026)
 
-**Status: exploratory concept only; not canon. No artwork has been generated or selected yet.** The creator approved exploring a coin design inspired by the city's overall architectural character, rather than a literal diagram of the Upper City and Down City.
+**Canon status:** The city uses a bronze coin known as an **Arch**. Its defining visual direction—a worn bronze coin bearing the city's architectural arch motif—is established canon. The concept board below records the approved core direction; it is not a claim that every scratch, relief line, scale note or presentation detail is immutable.
 
-### Visual direction
-A modestly sized, worn bronze coin with a restrained, raised architectural motif. A strong central Gothic arch provides the visual anchor; subtle intersecting lines or shallow relief around it suggest the depth, layered stonework and connected structures of the city. The result should feel like a small fragment of the city's architecture captured in metal—not a miniature city map, commemorative medal, or explicit illustration of the social divide.
+### Established visual direction
+A modest, everyday bronze coin, worn through ordinary handling. Its central architectural arch connects the coin to the city's monumental arches, layered masonry and interconnected structures. The coin should feel like a familiar object used in markets and daily exchanges, not a pristine commemorative medal or a miniature map of the city. Keep future refinements consistent with the established illustrated concept-art style of *Where the Light Falls*: painterly, tactile and atmospheric rather than photorealistic.
 
-Use aged bronze, darkened recessed details, softened raised edges, small scratches and handling wear. Keep the design legible and relatively simple at coin scale. Avoid portraits, crowns, invented lettering, denominations, dates, or additional political insignia for now. Do not assume that the arch motif is the Upper City's official emblem or that it has a settled national meaning; the exact symbolism remains open. The currency's name, country, denomination and minting history are undecided.
+### Details still open
+The wider currency system has not been defined. The denominations, relative values, other coin types, exchange relationships and any broader minting or monetary history remain undecided. Small refinements to the coin's exact execution may be made, but should preserve the recognizable bronze Arch concept unless the creator deliberately revises it.
 
-### Prompt for a first visual study
-> A single realistic, timeworn bronze coin shown clearly against a plain neutral background, front-facing product-style concept study. Its face has a restrained, finely engraved architectural motif inspired by an immense Gothic city: one monumental central stone arch, with subtle layered masonry and intersecting structural lines that suggest depth and the city's intricate architecture. The design is elegant but practical, readable at small scale, with dark oxidation in recessed grooves, softly polished raised details, worn edges and tiny scratches from years of handling. Atmospheric dark-fantasy material reference, believable metalwork, tactile surface, restrained detail. No text, letters, numbers, date, portrait, crown, national flag, extra symbols, background scene, or second coin. Exploratory concept art, not a finalized canonical design.
-
-The prompt is a starting point for generating and iterating on an image; it does not establish canon. Review the generated result before recording any design details as approved.
+### Approved concept artwork
+- [Arch City Coin concept board](../Arches_%20City%20Coin%20Concept%20Sheet.png) — the approved visual reference for the coin's core design direction.
+- The board includes illustrative views and context; treat those as design guidance, not as separate worldbuilding facts unless explicitly approved.
