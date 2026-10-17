@@ -34,3 +34,12 @@ Earlier entries reflect the status at the time. Mira's name and age were later c
 Append: date, decision, rationale, who approved it, affected files, and what remains unresolved. Do not silently rewrite a historical decision.
 
 | 2026-10-17 | Creator confirmed Mira died at 15; Elias was ~21 then and is ~23 at the story's start (~2 years later). Present-day search with the audience believing Mira alive; interwoven past scenes including Mira's own perspective; initially trusted but sometimes unreliable recollections, subtle escalating clues and retrospective revelation. Rooftop truth: siblings leave together; later Elias remembers otherwise. Exact death circumstances, mechanisms and scene details remain open. Supersedes 17-at-disappearance and uncertain-fate entries. | Confirmed by creator; open details remain concepts |
+
+## 17 October 2026 — confirmed narrative decisions
+- Mira died aged 15 approximately two years before the present. Her death is revealed to Elias and the audience together near the ending, leaving room for an aftermath. Her independent earlier scenes remain truthful.
+- Mira is taken with ordinary civilians in the rebellion, not singled out for secret ancestry or destiny. She dies after capture; the exact cause is undecided.
+- A coercive lower-city faction knowingly plans armed rebellion, manipulates Elias into opening a restricted upper-city passage as his promised final job, and treats him as expendable. Elias is unaware of the military purpose.
+- Elias's strengths are climbing, stealth, observation, and intimate city knowledge. He raised Mira, struggles to receive affection, and protects her to the point of control. Mira loves him but wants independence.
+- The birthday rooftop argument ends with both siblings leaving together. Elias later recalls her leaving alone. She does not die there.
+- An older, kind but naive childhood friend brought Elias into the faction and mistakes its conditional acceptance for family. Name, survival and details remain open.
+- The lower city is alive before the rebellion; parts are ruined afterward, but the population is not uniformly absent. Ordinary civilians are as fully human as protagonists.
