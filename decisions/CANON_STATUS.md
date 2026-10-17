@@ -19,7 +19,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - The approved title artwork is `assets/images/Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
 - The wider universe has **no confirmed name**. **The Hollow Crown** was discussed but set aside because of existing media and game-name overlap.
 - **UNTITLED** remains the repository's historical working name.
-- The universe matters beyond its first game adaptation.
+- The wider universe is intended to extend beyond this central story; the project's medium and final form remain undecided.
 - The story centers on **Elias Varek** (working name) and his search for his younger sister, **Mira Varek**, who died at 15. The circumstances of her capture and death are being developed; her fate itself is confirmed.
 - Elias is a compassionate but deeply traumatized young man; his sister was once his reason to keep living.
 - He grew up protecting/raising his sister in a dangerous impoverished urban community, amid moments of friendship and warmth.
