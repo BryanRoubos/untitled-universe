@@ -43,7 +43,7 @@ The authoritative, more detailed record is [Canon Status](decisions/CANON_STATUS
 | [`characters/`](characters/) | Elias, Mira and their relationship; Elias's personal items are tracked separately in [`ELIAS_VAREK_ITEMS.md`](characters/ELIAS_VAREK_ITEMS.md) |
 | [`world/`](world/) | Geography, society and open worldbuilding |
 | [`narrative/`](narrative/) | Story outline and scene explorations |
-| [`game-design/`](game-design/) | Game vision and scope |
+| [`game-design/`](game-design/) | Archived, nonbinding game adaptation exploration; medium remains open |
 | [`art/`](art/) | Visual direction and references |
 | [`decisions/`](decisions/) | Canon tracker and dated decision history |
 | [`CREATIVE_RULES.md`](CREATIVE_RULES.md) | Collaboration and creative principles |
@@ -59,10 +59,17 @@ The authoritative, more detailed record is [Canon Status](decisions/CANON_STATUS
 
 New artwork belongs in `assets/images/`. Update its links in the website and Markdown documents, record approvals in [Canon Status](decisions/CANON_STATUS.md), and preserve decision history in [Decision Log](decisions/DECISION_LOG.md). Follow [Creative Rules](CREATIVE_RULES.md): the creator decides canon, characters stay nuanced, and originality matters more than imitation.
 
-_Last reviewed: 16 October 2026._
+_Last reviewed: 17 October 2026._
 
 ## Approved atmospheric city concept — 17 October 2026
 
-Reference: [Lone Adventurer Overlooking the Twilight Citadel](Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
+Reference: [Lone Adventurer Overlooking the Twilight Citadel](assets/images/Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
+
+## Documentation synchronization — 17 October 2026
+
+- Elias's historical-fantasy clothing concept board is **confirmed canonical costume reference**, superseding the older modern hoodie-and-jeans outfit; his face approval and personal-item status are unchanged.
+- The lower-city faction's deliberate rebellion, exploitation of Elias, and civilians' suffering are confirmed foundations; institutional details remain open. See [Societies and Power](world/SOCIETIES_AND_POWER.md).
+- The Arch is an established bronze everyday coin; wider monetary details remain open. The concept board and city illustration are stored in `assets/images/`.
+- The project remains **story-first, medium undecided**. The game-vision document is archived exploration, not a production commitment.

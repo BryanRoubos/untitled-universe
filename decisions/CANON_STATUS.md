@@ -4,6 +4,13 @@ The rooftop argument is a real memory: Elias and Mira argue, then leave together
 
 # Canon Status — Living Tracker
 
+## Confirmed update — 17 October 2026: costume, city politics and currency
+- **Elias costume:** The existing [Elias Clothing Concept Board](../assets/images/Elias%20Clothing%20Concept%20Board.png) is the canonical historical-fantasy outfit reference (selected layered outfit and palette); earlier modern hoodie-and-jeans clothing is superseded. His facial design is unchanged.
+- **Political conflict:** The coercive lower-city underworld faction, deliberate uprising, manipulation of Elias into enabling it, and destructive impact on ordinary civilians are confirmed. Government and organization details remain open. See [Societies and Power](../world/SOCIETIES_AND_POWER.md).
+- **Currency:** The everyday bronze **Arch** coin and architectural arch motif are confirmed. The concept board is archived in [assets/images](../assets/images/Arches_%20City%20Coin%20Concept%20Sheet.png); denominations, minting history and wider currency system remain open.
+- **Medium:** Undecided. Game-design notes are archived exploratory material, not active plans.
+
+
 ## 17 October 2026 — rebellion and late revelation (confirmed)
 Mira died aged 15 about two years before the present, but Elias and the audience learn this together near the ending. Mira is captured with other civilians during the uprising; she is not specially targeted or secretly noble. She survives the initial capture and dies later, with precise circumstances undecided. Her past viewpoint must remain truthful; her death is not shown early. Elias never sees her die.
 
@@ -101,6 +108,6 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 
 ## Approved atmospheric city concept — 17 October 2026
 
-Reference: [Lone Adventurer Overlooking the Twilight Citadel](../Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
+Reference: [Lone Adventurer Overlooking the Twilight Citadel](../assets/images/Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.

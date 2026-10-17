@@ -1,20 +1,20 @@
-# First Game — Vision and Scope
+# Game Vision — Archived Medium Exploration
 
-**Status:** Direction confirmed; mechanics and exact MVP open.
+**Status: Exploratory / inactive. The project's final medium is OPEN.** This file preserves an earlier game-development direction; it is not an active production plan or confirmed game format.
 
-## Player experience
-Story-led third-person exploration with cinematic, responsive movement, believable animation, subtle presentation and emotionally significant discoveries. Favor handcrafted connected regions, branching routes and revisits over a giant open world.
+## Current creative priority
+Develop *Where the Light Falls* as an original story and wider world first: the relationship between Elias and Mira, the connected city, its inhabitants and politics, the planned uprising, and the late revelation. Keep character and story decisions independent of a particular medium. The creator will decide later whether it becomes a game, book, or another form.
 
-## Solo-development constraints
-Make one polished moment before expanding. Avoid committing to large systems, extensive combat, or hundreds of locations. Unreal Engine 5 is the intended engine; use practical assets and tools while preserving original world identity.
+## Earlier game adaptation ideas — not commitments
+- Third-person narrative exploration with atmospheric, responsive movement and handcrafted connected regions.
+- Unreal Engine 5 as a possible engine.
+- A small prototype of Elias exploring a space, interacting with an object, or revisiting the rooftop.
+- A consistent 3D character model, rigging and animation as possible future tasks.
+- A focused solo-development scope rather than a large open world.
 
-## Early prototype candidates
-- **Minimal interactive slice:** Elias moves in a small space, opens a door, reads a journal, eventually meets an NPC.
-- **Rooftop memory:** A short playable moment with young Elias and his sister, market-to-rooftop traversal, dialogue and environmental detail.
-Neither has been finalized as the first playable sequence.
+These are **archived possibilities**, not approved mechanics, engine selection, implementation work or a development schedule. A playable rooftop scene has not been decided.
 
-## Current production preference
-Start by obtaining a convincing, consistent 3D model of Elias. Work iteratively: references first, assess options, then model; rigging, animation and Unreal integration come later. Prefer low-cost tools and visible progress.
+## Before reactivating this document
+First obtain explicit creator approval of the medium. Then revisit adaptation goals, accessibility, narrative agency, budget, scope and technical choices. Do not treat old gameplay ideas as current story canon.
 
-## Quality priorities
-Strong silhouette and face consistency, responsive controls, lighting, environment detail, meaningful interaction, expressive performance and sound. AAA **feel**, not AAA scale.
+See [Creative Rules](../CREATIVE_RULES.md), [Canon Status](../decisions/CANON_STATUS.md), and [Story Outline](../narrative/STORY_OUTLINE.md).
