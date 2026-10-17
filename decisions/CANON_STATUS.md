@@ -1,5 +1,8 @@
 # Canon Status — Living Tracker
 
+> **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
+
+
 ## Confirmed creative direction
 - **Where the Light Falls** is the creator-approved title of the first game, centered on Elias and Mira Varek.
 - The approved title artwork is `assets/images/Where the Light Falls_ Citadel of Gold.png` (15 October 2026), published in the website hero.
@@ -75,7 +78,7 @@
 - Generic rich-evil/poor-good politics, monsters without purpose, or a simplistic 'city hides the truth' twist are insufficient.
 - A giant open world or a long rigid production plan is not the preferred approach.
 
-## Major narrative exploration — unreliable search for Mira (17 October 2026; NOT canon)
+## Historical exploration — unreliable search for Mira (17 October 2026; superseded in part by confirmed canon above)
 - **New leading hypothesis, exploratory only:** Mira genuinely existed, with her own curiosity, adventurousness, ambitions and relationships. She may have died a few years before the present story, while Elias sincerely believes she disappeared and continues searching for her. Alternative explanations and her actual fate remain open.
 - **External / internal stories:** Elias searches for Mira, following leads and meeting people; his devotion, fear of abandonment and inability to imagine life without protecting her affect his choices. His emotional trajectory should include recovery, friendship, joy and setbacks, not monotonous deterioration.
 - **Perspective experiment:** Real childhood scenes and memories, including the rooftop, can be shown with emotional authenticity; Elias's later recollections may combine or distort genuine moments. Mira's own viewpoint, when used, should preserve her agency and avoid hiding information she would naturally know just to maintain a twist. Do not automatically assume a split personality, literal present-day apparitions, or that Mira never existed.
