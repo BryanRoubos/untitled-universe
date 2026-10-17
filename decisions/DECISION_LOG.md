@@ -1,3 +1,7 @@
+## Canon correction — 17 October 2026
+
+The rooftop argument is a real memory: Elias and Mira argue, then leave together. The previously proposed false memory of Mira leaving alone is **retired, not canon**. Elias's final job unknowingly enables the uprising; he sees Mira captured, and she dies later. His present search is driven by missing information and hope, not confirmed fabricated memories. Repeated flashbacks with new context are an optional narrative technique. Genuinely unreliable memories remain a possible future concept, not current canon. This correction supersedes older conflicting passages below.
+
 # Decision History
 
 This is a **reconstructed summary**, not a timestamped transcript. Record future decisions with dates and explicit creator approval.
