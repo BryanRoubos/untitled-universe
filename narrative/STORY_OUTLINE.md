@@ -29,8 +29,8 @@ Elias and his younger sister grow up in a dangerous but socially alive impoveris
 ## Foundational memory
 She leads him from the market to a rooftop, where he briefly sees a beautiful world beyond their daily struggle.
 
-## Inciting wound — working
-They argue about his protectiveness. She leaves, and for once he does not pursue her. A violent incident strikes the neighborhood or her circle. She disappears; some children may be dead, missing or surviving. Exact circumstances are undecided.
+## Capture and aftermath
+They argue about his protectiveness and leave the rooftop together, still unreconciled. Later, Mira is captured with other civilians during the uprising and dies after the initial chaos. The exact circumstances and timing of her death remain undecided.
 
 ## Present
 Years or another interval later (open), Elias continues searching, burdened by guilt and without a stable sense of self. His journey encounters human conflicts, friendships, social systems and strange phenomena not reducible to his personal quest.
