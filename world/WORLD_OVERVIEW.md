@@ -1,3 +1,7 @@
+## Canon correction — 17 October 2026
+
+The rooftop argument is a real memory: Elias and Mira argue, then leave together. The previously proposed false memory of Mira leaving alone is **retired, not canon**. Elias's final job unknowingly enables the uprising; he sees Mira captured, and she dies later. His present search is driven by missing information and hope, not confirmed fabricated memories. Repeated flashbacks with new context are an optional narrative technique. Genuinely unreliable memories remain a possible future concept, not current canon. This correction supersedes older conflicting passages below.
+
 ## City and catastrophe — story foundation — confirmed 17 October 2026 (author spoilers; supersedes older conflicting notes)
 - **Mira Varek dies at 15**, about two years before the present, when Elias is about 21; he is about 23 in the present. Elias and the audience discover her death **together near the end**, with space afterward for Elias's response. The story begins with Elias searching in the belief she is alive. Mira's earlier independent viewpoint is truthful; it may show her alive during and briefly after the catastrophe without revealing her death.
 - **Birthday rooftop:** Mira takes Elias to a beautiful view. They argue about his protectiveness, secrets and their lives; **they leave together**, unreconciled. Elias later incorrectly remembers her leaving alone. She **does not die on the rooftop**. Exact dialogue and cause of the memory distortion remain open.
