@@ -15,7 +15,7 @@ Concept art should resemble actual human-made pencil studies, sketchbook work or
 - [Simple side/front pencil exploration](../assets/images/Graphite%20Portrait%20Studies%20on%20Aged%20Paper.png).
 - [Multi-angle pencil study sheet](../assets/images/Graphite%20Portrait%20Study%20Sheet.png).
 - Both are now displayed in the public concept book's sister section, with click-to-zoom support.
-- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, clothing or story implications have been canonized. Mira's name and age (17 at disappearance) are confirmed.
+- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, clothing or story implications have been canonized. Mira’s name is confirmed; she died at 15. The older note saying 17 at disappearance is superseded.
 - **Next step:** obtain explicit approval of her face before creating separate clothing or colored studies.
 
 ## Elias — current approvals (15 October 2026)
