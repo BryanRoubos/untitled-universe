@@ -54,3 +54,5 @@ Continue one small approved component at a time. Potential choices include devel
 
 ## Working practice
 Use the Markdown documents as detailed source of truth and the website as the public visual concept book. Update canon status and decision log after approval; keep exploratory imagery separate from confirmed lore.
+
+**Website review — 17 October 2026:** Corrected mispositioned lower-city study note so it sits with the two environmental studies, not below the Arch coin. Coin illustration is approved object design, not literal city geography. Confirmed Kareth and pendant status retained. Book-like styling, chapter selector, reading progress and improved page-turn links implemented in `index.html`; internal links and asset references validated.
