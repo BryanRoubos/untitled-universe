@@ -19,3 +19,4 @@
 
 ## Inspiration, not canon
 The Witcher 3 (moral quests, exploration), The Last of Us (relationships, animation), Metro (atmosphere), Twilight Princess (eerie fantasy), Andor (political humanity), Planet of the Apes (civilizations), and street-child stories from A Knight of the Seven Kingdoms.
+15. **Separate documentation by purpose.** Keep character biographies, clothing references, personal items, and general art direction in the most relevant documents. Record an item's status, appearance, story significance, and visual references separately. Link related documents instead of duplicating full descriptions. Clearly label confirmed facts, approved designs, exploratory ideas, and open questions. Generated art and assistant suggestions do not become canon without the creator's approval.
