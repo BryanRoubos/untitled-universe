@@ -1,5 +1,4 @@
-> **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
-
+> **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 # Elias and His Sister — Relationship Bible
 
 **Status:** Confirmed emotional core; event specifics working.
@@ -19,7 +18,7 @@ At a bustling market, she persuades a reluctant Elias to climb to a rooftop. She
 An approved environment exploration depicts a concealed, cold stone chamber where vulnerable children have attempted to make a home. The entrance is hidden behind loose stones in a neglected storage alcove, leading through a narrow crawlspace into an enclosed shelter. This is a setting proposal, **not** confirmation of who lived there, what occurred there, or how it connects to the siblings' disappearance. See `world/WORLD_OVERVIEW.md`.
 
 ## The wound
-They fight about his protectiveness. She leaves. He stays behind for the first time, angry and exhausted. After the incident and her disappearance, he treats that one choice as unforgivable.
+They fight about his protectiveness, then leave the rooftop together, still upset. Mira is later captured during the uprising Elias unknowingly helps enable and dies after the initial chaos. Elias’s guilt centers on being unable to reach her and on his unwitting role in the catastrophe—not on leaving her alone on the rooftop.
 
 ## Emotional goal
 Their story asks whether love can become control, whether guilt can be mistaken for responsibility, and whether Elias can someday choose life for reasons beyond saving her.
