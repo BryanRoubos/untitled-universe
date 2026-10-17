@@ -1,5 +1,14 @@
 # Canon Status — Living Tracker
 
+## 17 October 2026 — rebellion and late revelation (confirmed)
+Mira died aged 15 about two years before the present, but Elias and the audience learn this together near the ending. Mira is captured with other civilians during the uprising; she is not specially targeted or secretly noble. She survives the initial capture and dies later, with precise circumstances undecided. Her past viewpoint must remain truthful; her death is not shown early. Elias never sees her die.
+
+A coercive lower-city faction plans a rebellion and exploits Elias, an experienced climber and stealthy city navigator, by offering freedom after a final assignment. He opens a restricted upper-city passage, not knowing the faction will use it to begin its planned armed uprising. Its leaders know the danger and regard him as expendable. Returning amid the violence, he sees a fleeting glimpse of Mira being taken but cannot reach her. The lower city was lively before the disaster; parts are devastated, but survivors remain. Ordinary civilians on both sides have their own lives and stories.
+
+Elias effectively raised Mira, loves her, struggles to accept love himself, and can become controlling. Mira loves him but wants independence. Their birthday rooftop argument ends with both leaving together; Elias later misremembers Mira leaving alone. His older, trusting childhood friend introduced him to the organization and sees it as substitute family, unaware of its manipulation. Friend's name and fate, the exact leverage over Elias, Mira's precise death circumstances, and the city's political structures remain open.
+
+**Editorial note:** Older entries below describing Mira as 17, fate undecided, or the rooftop separation as real are superseded.
+
 > **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
 
 
