@@ -148,3 +148,10 @@ The creator explicitly confirmed the [Elias Clothing Concept Board](../assets/im
 **Creator-confirmed story fact:** The siblings actually lived in the concealed shelter beneath the great viaducts before the uprising. It was their home, not an occasional hideout. The earlier [Hidden Children's Shelter Storyboard](../assets/images/Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png) provides the hidden storage-alcove entrance, loose stones, crawlable passage, stone-vaulted chamber and high ventilation opening as architectural study. Ensure the route is physically usable by adult Elias.
 
 **Approved illustrated environment direction:** `Candlelit Medieval Stone Chamber.png` shows their humble, warm, lived-in room: aged stone vaults, patched furnishings, textiles, shelves, candles, a recessed entrance and daylight from high above. Its hand-painted ochre/charcoal palette, irregular brush texture and parchment edges align with the book's established art direction. Do not lock the exact number/placement of beds, possessions, furniture, route dimensions or city address from this one painting.
+
+
+## Illustration chronology clarification — 17 October 2026
+
+- **A View Toward the Light** (`Elias Overlooking the Golden City.png`) depicts Elias **before his search for Mira begins**. Do not present it as a scene from the two-years-later search. Its exact date and narrative beat remain unspecified.
+- **The Silent Market** (`Ruined Gothic Market Beneath Broken Viaducts.png`) depicts a damaged lower-city district **after the uprising**. It is not representative of the whole lower city, which retains inhabited neighborhoods. Exact date and location remain unspecified.
+- On the illustrated website, place the first painting with Elias's earlier life and the second with the aftermath in Chapter V.

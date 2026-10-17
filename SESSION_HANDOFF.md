@@ -29,3 +29,10 @@ Elias (~23 in the present) searches for Mira, who was captured in an uprising ab
 ## Previous session record
 
 See [archived handoff](archive/2026-10-17/SESSION_HANDOFF_previous.md).
+
+
+## Illustration chronology clarification — 17 October 2026
+
+- **A View Toward the Light** (`Elias Overlooking the Golden City.png`) depicts Elias **before his search for Mira begins**. Do not present it as a scene from the two-years-later search. Its exact date and narrative beat remain unspecified.
+- **The Silent Market** (`Ruined Gothic Market Beneath Broken Viaducts.png`) depicts a damaged lower-city district **after the uprising**. It is not representative of the whole lower city, which retains inhabited neighborhoods. Exact date and location remain unspecified.
+- On the illustrated website, place the first painting with Elias's earlier life and the second with the aftermath in Chapter V.
