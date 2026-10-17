@@ -29,6 +29,11 @@
 - The uploaded panoramic concept `assets/images/Where the Light Falls.png` is a selected visual reference and is displayed in the concept book alongside the title art and lower-city studies.
 - **Not confirmed:** exact city map, name, government, noble houses, cathedral functions, social mobility, construction history, waterfalls or individual architectural features and illustration labels. Inspiration from *Arcane* concerns layered social storytelling, not copying its world.
 
+## Preferred wallpaper composition — visual reference (17 October 2026)
+- The creator prefers the **first seated-Elias panoramic wallpaper** over later, more elaborate standing or seated revisions. Elias sits quietly on rocks and looks across a city with bridges, waterfalls, inhabited shadowed districts and bright upper architecture toward the top right. Its emotional restraint, lived-in atmosphere and balance of light and shadow matter more than maximal architectural detail.
+- **Status: Preferred artwork/composition, not new story canon.** Elias is not required to sit in other scenes; the precise illustrated landmarks, waterfalls, lighting and geography are not automatically canonical. Preserve the connected vertical-city concept in separate environment studies without forcing one wallpaper to explain every layer.
+- **Asset tracking:** This discussion selects an earlier generated image; its exact repository asset path has not yet been verified or added. Do not substitute the later generated revisions for it.
+
 ## Selected environment visual direction (15 October 2026)
 - **Lower city:** Creator approved the visual direction of a vast, old, poor but alive neighborhood beneath monumental stone arches and viaducts. A grayscale blockout and colored atmosphere study are saved in the repo and displayed in the concept book.
 - **Status:** Visual reference approved; precise geography, construction history, civic structures and the neighborhood’s role in the sibling story remain exploratory, not canon.
