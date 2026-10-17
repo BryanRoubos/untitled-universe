@@ -1,4 +1,7 @@
 
+**Calendar update (17 October 2026):** **Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**.
+
+
 **Journal art update (17 October 2026):** **Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events. Artwork: `assets/images/Elias and Mira’s Worn Journal Spread.png`.
 
 ## Canon correction — 17 October 2026

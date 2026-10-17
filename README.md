@@ -81,3 +81,7 @@ Elias keeps a deeply private journal. Mira secretly took and read it while she w
 ## Journal concept artwork — approved 17 October 2026
 
 [View the journal concept](assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png). **Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events.
+
+## Calendar note — Kareth
+
+**Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**.

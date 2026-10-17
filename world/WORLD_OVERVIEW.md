@@ -67,3 +67,7 @@ What happened to this world? How do people explain anomalies? How do technologie
 Reference: [Lone Adventurer Overlooking the Twilight Citadel](../assets/images/Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
+
+## Calendar — confirmed name, open system (17 October 2026)
+
+**Kareth** is a confirmed month name used in the city's calendar. The journal concept's “17th of Kareth” is an acceptable example date, **not** confirmation of an event on that day. Its season, order in the year, number of days, origin, other month names, and wider calendar structure remain **open**.
