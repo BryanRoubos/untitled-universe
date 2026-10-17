@@ -87,3 +87,9 @@
 - **Other exploratory thread:** Elias and Mira would both potentially share any inherited family/upper-city connection. Elias might know something Mira does not, which combines with his traumatic upbringing to drive overprotectiveness; no secret, lineage, royalty or upper-city plot is confirmed. The creator considers a conventional hidden-royalty revelation too familiar.
 - **Inspirations, not templates:** *Call of Duty: Black Ops* (Mason/Reznov) and *Mr. Robot* (retrospectively legible subjective viewpoint). Do not copy their plots or use a dissociative-identity twist by default.
 - **Before deciding canon:** Develop an internally consistent true chronology of Mira's life, possible death/disappearance, Elias's perceptions, and who knows what. Test with an emotionally convincing scene that works even without a twist.
+
+## Approved atmospheric city concept — 17 October 2026
+
+Reference: [Lone Adventurer Overlooking the Twilight Citadel](../Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
+
+**Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
