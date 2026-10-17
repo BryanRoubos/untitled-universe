@@ -80,3 +80,17 @@ Record creator, license, original URL and allowed uses for every third-party ass
 Reference: [Lone Adventurer Overlooking the Twilight Citadel](../Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
 
 **Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
+
+## National coin — architectural concept exploration (17 October 2026)
+
+**Status: exploratory concept only; not canon. No artwork has been generated or selected yet.** The creator approved exploring a coin design inspired by the city's overall architectural character, rather than a literal diagram of the Upper City and Down City.
+
+### Visual direction
+A modestly sized, worn bronze coin with a restrained, raised architectural motif. A strong central Gothic arch provides the visual anchor; subtle intersecting lines or shallow relief around it suggest the depth, layered stonework and connected structures of the city. The result should feel like a small fragment of the city's architecture captured in metal—not a miniature city map, commemorative medal, or explicit illustration of the social divide.
+
+Use aged bronze, darkened recessed details, softened raised edges, small scratches and handling wear. Keep the design legible and relatively simple at coin scale. Avoid portraits, crowns, invented lettering, denominations, dates, or additional political insignia for now. Do not assume that the arch motif is the Upper City's official emblem or that it has a settled national meaning; the exact symbolism remains open. The currency's name, country, denomination and minting history are undecided.
+
+### Prompt for a first visual study
+> A single realistic, timeworn bronze coin shown clearly against a plain neutral background, front-facing product-style concept study. Its face has a restrained, finely engraved architectural motif inspired by an immense Gothic city: one monumental central stone arch, with subtle layered masonry and intersecting structural lines that suggest depth and the city's intricate architecture. The design is elegant but practical, readable at small scale, with dark oxidation in recessed grooves, softly polished raised details, worn edges and tiny scratches from years of handling. Atmospheric dark-fantasy material reference, believable metalwork, tactile surface, restrained detail. No text, letters, numbers, date, portrait, crown, national flag, extra symbols, background scene, or second coin. Exploratory concept art, not a finalized canonical design.
+
+The prompt is a starting point for generating and iterating on an image; it does not establish canon. Review the generated result before recording any design details as approved.
