@@ -1,3 +1,5 @@
+> **Current continuity notice (17 October 2026):** This is a supporting topic-specific document. For approved ages, the siblings' home, rooftop sequence, uprising, and ending, follow [the current canon tracker](../decisions/CANON_STATUS.md) and [current story spine](../narrative/STORY_OUTLINE.md). Historical statements below may be superseded; do not treat them as new canon.
+
 > **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 # The Rooftop — Scene Seed
 

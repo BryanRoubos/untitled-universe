@@ -1,3 +1,5 @@
+> **Current continuity notice (17 October 2026):** This is a supporting topic-specific document. For approved ages, the siblings' home, rooftop sequence, uprising, and ending, follow [the current canon tracker](../decisions/CANON_STATUS.md) and [current story spine](../narrative/STORY_OUTLINE.md). Historical statements below may be superseded; do not treat them as new canon.
+
 ## Canon correction — 17 October 2026
 
 The rooftop argument is a real memory: Elias and Mira argue, then leave together. The previously proposed false memory of Mira leaving alone is **retired, not canon**. Elias's final job unknowingly enables the uprising; he sees Mira captured, and she dies later. His present search is driven by missing information and hope, not confirmed fabricated memories. Repeated flashbacks with new context are an optional narrative technique. Genuinely unreliable memories remain a possible future concept, not current canon. This correction supersedes older conflicting passages below.

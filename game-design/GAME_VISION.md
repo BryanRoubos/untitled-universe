@@ -1,3 +1,5 @@
+> **Current continuity notice (17 October 2026):** This is a supporting nonbinding exploratory document. For approved ages, the siblings' home, rooftop sequence, uprising, and ending, follow [the current canon tracker](../decisions/CANON_STATUS.md) and [current story spine](../narrative/STORY_OUTLINE.md). Historical statements below may be superseded; do not treat them as new canon.
+
 # Game Vision — Archived Medium Exploration
 
 **Status: Exploratory / inactive. The project's final medium is OPEN.** This file preserves an earlier game-development direction; it is not an active production plan or confirmed game format.
