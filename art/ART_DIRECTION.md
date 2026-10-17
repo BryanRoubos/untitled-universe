@@ -98,3 +98,9 @@ The wider currency system has not been defined. The denominations, relative valu
 ## Elias costume confirmation — 17 October 2026
 
 The creator explicitly confirmed the [Elias Clothing Concept Board](../assets/images/Elias%20Clothing%20Concept%20Board.png) as **canon** for his current historical-fantasy clothing: selected layered shirt, charcoal vest/scarf, waist wrap, worn brown trousers, leather cross-body bag/strap and boots; front, back and side views and material palette are the design reference. Earlier modern clothing is superseded. Other unapproved character objects and story meanings remain open.
+
+## Journal art direction — approved concept
+
+![Journal spread](../assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png)
+
+**Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events.

@@ -1,3 +1,8 @@
+
+## Journal concept approval — 17 October 2026
+
+**Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events. [Reference artwork](../assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png).
+
 ## Canon correction — 17 October 2026
 
 The rooftop argument is a real memory: Elias and Mira argue, then leave together. The previously proposed false memory of Mira leaving alone is **retired, not canon**. Elias's final job unknowingly enables the uprising; he sees Mira captured, and she dies later. His present search is driven by missing information and hope, not confirmed fabricated memories. Repeated flashbacks with new context are an optional narrative technique. Genuinely unreliable memories remain a possible future concept, not current canon. This correction supersedes older conflicting passages below.

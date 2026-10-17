@@ -38,3 +38,9 @@ Generated concept art does not become canon automatically. Keep physical design 
 - [Elias Varek — main character dossier](ELIAS_VAREK.md)
 - [Creative Rules](../CREATIVE_RULES.md)
 - [Art Direction and References](../art/ART_DIRECTION.md)
+
+## Approved journal spread — visual concept
+
+![Elias and Mira's journal](../assets/images/Elias%20and%20Mira%E2%80%99s%20Worn%20Journal%20Spread.png)
+
+**Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events.

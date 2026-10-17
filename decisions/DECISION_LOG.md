@@ -51,3 +51,7 @@ Append: date, decision, rationale, who approved it, affected files, and what rem
 ## 17 October 2026 — Journal discovery confirmed
 
 **Creator-approved:** Elias keeps a deeply private journal. Mira secretly took and read it while she was alive and left a small drawing or message. Elias learns what she did **only after the uprising**. The exact content, appearance, discovery scene, and his reaction remain open. The moment is relational, not a clue to Mira's death. Synced to canon tracker, character/relationship documents, story outline and website.
+
+## 17 October 2026 — Journal concept approval
+
+**Approved visual concept (17 October 2026):** Weathered leather journal, uneven parchment, muted ochre and charcoal, painterly graphite/sketchbook style rather than photorealism. Elias's handwriting is neat, restrained and contained; Mira's is much sloppier, playful and irregular with doodles and corrections. The depicted exact text, dates, names, drawings and page arrangement are exploratory, NOT literal canon. The secret reading and later discovery remain confirmed story events. Asset organized under `assets/images/Elias and Mira’s Worn Journal Spread.png` and displayed in Elias's website chapter.
