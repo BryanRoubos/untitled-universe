@@ -1,3 +1,12 @@
+## Approved painterly artwork refresh — 17 October 2026
+
+The creator uploaded and approved these three featured visual concepts:
+- `assets/images/Gothic Underpass Market at Dusk.png` — the approved painterly lower-city market. The earlier monochrome study explores a similar atmosphere but **not the identical scene**.
+- `assets/images/Elias Overlooking the Golden City.png` — Elias overlooking the connected city, approved as a visual concept. **Not necessarily post-uprising or an established story event.**
+- `assets/images/Where the Light Falls_ Vertical City.png` — the approved explanatory upper/middle/lower city illustration. **Not a fixed map.** Specific towers, political institutions, heraldry, waterfalls, bridges and routes remain open.
+
+The earlier versions remain in the image archive; the website now features these approved replacements. Image approval does not canonize every depicted incidental detail. Elias's Concept 03 face and clothing board remain character-design authorities.
+
 ## Visual style approval — 17 October 2026
 
 The creator selected the existing journal spread and *The Wayfarer’s Journal at Dusk* as **approved master art-style references** for future imagery. This is an **art-direction approval**, not approval of their depicted dates, text, places or events. Keep original artwork while testing painterly remakes. See `art/ART_DIRECTION.md`.

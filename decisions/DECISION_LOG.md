@@ -1,3 +1,7 @@
+## 17 October 2026 — Three painterly visual concepts accepted
+
+Creator uploaded and approved the lower-city market, Elias overlook, and vertical-city overview. These are now featured on the website; original versions remain archived. Earlier monochrome market is not exactly the same scene as the new painting. The overlook does not imply a post-uprising setting. Architecture, banners and institutional labels in the artworks do not automatically become canon.
+
 ## 17 October 2026 — Master art style approved
 
 Creator explicitly selected the journal spread and Elias writing at dusk as the two visual masters. Future finished images should share their tactile painterly gothic fantasy aesthetic; existing graphite sheets remain valid identity studies. Remakes require individual approval before replacing website images. Scene contents remain exploratory unless separately confirmed.

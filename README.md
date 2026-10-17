@@ -93,3 +93,7 @@ Chapter I introduces the established month **Kareth** in the city's everyday-lif
 ## Website book-format review — 17 October 2026
 
 The illustrated concept book now keeps the lower-city monochrome/painted pair and its process note together. The Arch coin's concept board has a separate caption explaining that the coin design is confirmed but the illustrated architecture is not a literal map, mint or government. Kareth remains a canonical month name with the wider calendar open. Reader improvements include a floating chapter selector, reading-progress indicator, clearer chapter turns, image captions and responsive styling. The website keeps Mira's pendant ownership and Elias's only remaining keepsake as confirmed canon.
+
+## Featured painterly art — 17 October 2026
+
+New creator-approved [lower-city market](assets/images/Gothic%20Underpass%20Market%20at%20Dusk.png), [Elias overlook](assets/images/Elias%20Overlooking%20the%20Golden%20City.png), and [vertical-city concept](assets/images/Where%20the%20Light%20Falls_%20Vertical%20City.png) now feature in the [illustrated book](https://bryanroubos.github.io/untitled-universe/). Earlier artwork remains archived. These are approved visual concepts, not definitive maps, political institutions or confirmed story events.

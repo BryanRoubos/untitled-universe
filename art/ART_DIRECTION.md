@@ -1,3 +1,12 @@
+## Approved painterly artwork refresh — 17 October 2026
+
+The creator uploaded and approved these three featured visual concepts:
+- `assets/images/Gothic Underpass Market at Dusk.png` — the approved painterly lower-city market. The earlier monochrome study explores a similar atmosphere but **not the identical scene**.
+- `assets/images/Elias Overlooking the Golden City.png` — Elias overlooking the connected city, approved as a visual concept. **Not necessarily post-uprising or an established story event.**
+- `assets/images/Where the Light Falls_ Vertical City.png` — the approved explanatory upper/middle/lower city illustration. **Not a fixed map.** Specific towers, political institutions, heraldry, waterfalls, bridges and routes remain open.
+
+The earlier versions remain in the image archive; the website now features these approved replacements. Image approval does not canonize every depicted incidental detail. Elias's Concept 03 face and clothing board remain character-design authorities.
+
 ## Approved master illustration style — 17 October 2026
 
 **Creator-approved visual style references (two complementary masters):**
@@ -8,7 +17,7 @@
 
 **Continuity lock:** Elias's approved Concept 03 facial study and clothing board are the identity/costume authorities; do not redesign his face or replace his historical-fantasy clothing when repainting scenes. Mira's face is not final: do not silently establish one. Keep one physically connected, layered gothic city with inhabited lower levels and monumental arches, not an approved street map. Depicted specific landmarks, symbols, political institutions, text and story events remain exploratory unless separately approved.
 
-**Remake queue (proposed, not yet approved replacements):** (1) lower-city photorealistic environment, (2) Elias city overlook with character correction, (3) annotated city overview with canon-safe labels, (4) additional painterly character-color study preserving Concept 03. Retain originals until each new image is reviewed and explicitly accepted. Style approval does **not** canonize literal journal pages or the dusk-writing scene as an event.
+**Remake status:** The lower-city market, Elias overlook and vertical-city overview have now been uploaded and approved as featured visual concepts. A supplementary colored character study preserving Concept 03 remains optional. Keep original art archived. Style approval does **not** canonize literal journal pages or the dusk-writing scene as an event.
 
 # Art Direction and References
 
