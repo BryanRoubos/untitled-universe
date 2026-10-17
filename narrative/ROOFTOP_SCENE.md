@@ -1,3 +1,5 @@
+> **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
+
 # The Rooftop — Scene Seed
 
 **Status:** Confirmed emotional seed. Exact dialogue, blocking, era and placement open.
