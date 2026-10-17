@@ -20,7 +20,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - The wider universe has **no confirmed name**. **The Hollow Crown** was discussed but set aside because of existing media and game-name overlap.
 - **UNTITLED** remains the repository's historical working name.
 - The universe matters beyond its first game adaptation.
-- The story centers on **Elias Varek** (working name) and the unresolved disappearance of his younger sister, who died at 15, **Mira Varek**.
+- The story centers on **Elias Varek** (working name) and his search for his younger sister, **Mira Varek**, who died at 15. The circumstances of her capture and death are being developed; her fate itself is confirmed.
 - Elias is a compassionate but deeply traumatized young man; his sister was once his reason to keep living.
 - He grew up protecting/raising his sister in a dangerous impoverished urban community, amid moments of friendship and warmth.
 - Their contrasting personalities and a rooftop memory are central emotional anchors.
@@ -97,7 +97,7 @@ Elias effectively raised Mira, loves her, struggles to accept love himself, and 
 - **Open future concept, not canon:** Any unreliable-memory or perception mechanism would require careful development; no such mechanism is currently established. Avoid using mental illness merely as a sensational twist.
 - **Other exploratory thread:** Elias and Mira would both potentially share any inherited family/upper-city connection. Elias might know something Mira does not, which combines with his traumatic upbringing to drive overprotectiveness; no secret, lineage, royalty or upper-city plot is confirmed. The creator considers a conventional hidden-royalty revelation too familiar.
 - **Inspirations, not templates:** *Call of Duty: Black Ops* (Mason/Reznov) and *Mr. Robot* (retrospectively legible subjective viewpoint). Do not copy their plots or use a dissociative-identity twist by default.
-- **Before deciding canon:** Develop an internally consistent true chronology of Mira's life, possible death/disappearance, Elias's perceptions, and who knows what. Test with an emotionally convincing scene that works even without a twist.
+- **Historical development note, superseded where it conflicts with current canon:** Develop an internally consistent chronology of Mira's life, capture and death, Elias's understanding, and who knows what. Test the story with an emotionally convincing scene that works without relying on an unreliable-memory twist.
 
 ## Approved atmospheric city concept — 17 October 2026
 
