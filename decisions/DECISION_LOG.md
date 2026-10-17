@@ -12,7 +12,7 @@ This is a **reconstructed summary**, not a timestamped transcript. Record future
 | World discussion | Moved toward an older, dark-fantasy atmosphere with swords, folklore, settlements and ruins | Working |
 | Character discussion | Elias Varek established as protagonist with trauma, compassion and a missing younger sister | Confirmed core |
 | Sibling discussion | Elias acted as protector; sister was sociable, joyful and resistant to overprotection | Confirmed core |
-| Story discussion | Argument, decision not to follow, then disappearance and guilt | Strongly favored, details open |
+| Historical story discussion (superseded) | Argument, Elias deciding not to follow Mira, then disappearance and guilt | Earlier working premise only; current canon is that they leave the rooftop together and Mira is captured later during the uprising |
 | Scene discussion | Sister draws Elias from crowded market to rooftop to show him beauty | Confirmed emotional seed; placement open |
 | Exploration discussion | Smaller interconnected, dense explorable regions instead of a giant open world | Confirmed preference |
 | Supernatural discussion | Eerie, sometimes interactive mysteries; ambiguity and emotional impact | Confirmed tone; mechanisms open |
