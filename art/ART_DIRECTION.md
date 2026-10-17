@@ -1,3 +1,9 @@
+## Post-uprising concept art added — 17 October 2026
+
+**New uploaded image:** `assets/images/Ruined Gothic Market Beneath Broken Viaducts.png`, titled *The Silent Market* for display. Featured in Chapter V (*The Search*) as a **post-uprising environment concept**, following the existing Elias overlook. The artist-supplied image follows the approved textured, imperfect, painterly aesthetic from *The Wayfarer’s Journal at Dusk*.
+
+**Canon boundary:** The armed uprising and damage to some city districts are established. The pictured market's precise identity, its connection to Elias and Mira, individual ruined bridges, banners, exact level of destruction, and time of day are **not established lore**. This is concept art only. Do not add the earlier proposed pastry ritual, named market, or new narrative events. The creator specifically requested to focus on artwork rather than lore.
+
 ## Approved painterly artwork refresh — 17 October 2026
 
 The creator uploaded and approved these three featured visual concepts:

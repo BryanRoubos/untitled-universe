@@ -1,3 +1,7 @@
+## 17 October 2026 — Post-uprising concept illustration uploaded
+
+*Ruined Gothic Market Beneath Broken Viaducts.png* was uploaded and added to the illustrated book as *The Silent Market*, a post-uprising visual study. The creator requested artwork only, not additional lore. Exact site, destruction, architecture and symbolic details are exploratory and do not become canon. No character or narrative decisions were added.
+
 ## 17 October 2026 — Three painterly visual concepts accepted
 
 Creator uploaded and approved the lower-city market, Elias overlook, and vertical-city overview. These are now featured on the website; original versions remain archived. Earlier monochrome market is not exactly the same scene as the new painting. The overlook does not imply a post-uprising setting. Architecture, banners and institutional labels in the artworks do not automatically become canon.
