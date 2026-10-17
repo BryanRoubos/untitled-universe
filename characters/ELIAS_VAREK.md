@@ -2,7 +2,7 @@
 
 ## Canon correction — 17 October 2026
 
-This document has been reconciled with the current story decisions. Older material describing Elias searching after Mira's disappearance, a rooftop separation, or a silver pendant, ring, and journal as established personal artifacts is superseded. Do not reuse those details as current canon without Bryan's explicit approval.
+This document records the confirmed story decisions and distinguishes them from unresolved details. The idea that Elias remembers Mira leaving the rooftop alone is retired; Elias and Mira argue on her birthday and leave together. Elias's search for Mira remains central: he begins believing she may still be alive. The pendant, ring, and journal remain documented personal artifacts. Do not treat open questions about their history or significance as settled canon.
 
 ## Core profile
 
@@ -25,6 +25,10 @@ When Elias returns, he sees civilians fleeing amid killings and burning streets.
 
 Mira is an ordinary civilian caught in mass capture, not someone singled out by destiny, special bloodline, or supernatural status. The lower city contains ordinary families, friendships, markets, and daily life; it should not be portrayed as uniformly criminal or desolate. The uprising is deliberately planned by the coercive organization, which exploits real grievances against discriminatory upper-city power. Neither social level is morally uniform.
 
+## Earlier visual baseline and continuity
+
+An earlier documented baseline describes Elias in a faded black hoodie, worn dark-brown jacket, dark jeans, practical boots, and backpack, alongside his pendant, engraved silver ring, and weathered leather journal. The newer historical-fantasy outfit below is also approved. Whether the older clothing belongs to another period or is fully retired has not been decided; retain it as historical design documentation rather than silently treating it as current clothing.
+
 ## Approved visual direction
 
 ### Face
@@ -36,20 +40,34 @@ Concept 03 is the definitive facial design reference: youthful, naturally handso
 
 ### Clothing
 
-The approved clothing direction is a practical, historical-feeling set of worn layers: a dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers, and worn brown leather boots. The materials should look inexpensive and repeatedly used or repaired, not like a stylish heroic costume. This direction is separate from his facial design.
+The approved clothing direction is a practical, historical-feeling set of worn layers: a dirty-cream linen shirt, faded charcoal vest, muted gray-brown fabric sash, weathered dark-brown loose trousers, and worn brown leather boots. The materials should look inexpensive and repeatedly used or repaired, not like a stylish heroic costume. This direction is separate from his facial design. The relationship between this outfit and the earlier hoodie/jacket baseline remains undecided.
 
 - [First graphite outfit sketch](../assets/images/Rugged%20Adventurer%20Outfit%20Sketch.png)
 - [Refined colour and texture clothing board](../assets/images/Elias%20Clothing%20Concept%20Board.png)
 
 ## Personal artifacts and accessories
 
-**No specific personal artifact is currently established as canon in this document.** Earlier references to a small circular silver pendant, an engraved silver ring, and a weathered leather journal are outdated and must not be presented as approved facts or illustrated as established character details.
+### The shared pendant — confirmed canon
 
-The artifacts Elias carries need to be recovered from the latest approved discussion before this section is filled in. Do not invent replacements, symbolic meanings, engravings, origins, or links to Mira. Once the actual decisions are confirmed, document each item's appearance, why Elias carries it, and whether its significance is established or still open. Artwork for these artifacts has not yet been created or approved.
+The pendant came from Mira, Elias's younger sister, and both siblings wear it. Eventually, it is the only thing Elias finds and has from her. It is a tangible connection to Mira, whom he continues searching for because he believes she may still be alive.
+
+**Still unresolved:** How Mira originally obtained the pendant, where it came from, and the circumstances in which Elias finds it. Its precise design and any symbolic or supernatural meaning must not be invented or treated as settled unless explicitly approved.
+
+### Engraved silver ring — documented personal item
+
+The engraved silver ring remains in Elias's documented personal items. Its history and significance are open unless separately confirmed.
+
+### Weathered leather journal — documented personal item
+
+The weathered leather journal remains in Elias's documented personal items. Its contents, history, and significance are open unless separately confirmed.
+
+Keep these items in character documentation and relevant website material. Do not remove them simply because some details remain unresolved; do not invent additional history or symbolism.
 
 ## Inner life and writing guidance
 
-Elias is compassionate, attentive, generous, capable of affection, dry humour, and fleeting joy. He can care for other people more easily than himself. He instinctively protects and comforts, then may withdraw when intimacy feels dangerous. He experiences depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, and emotional exhaustion; his suffering should be conveyed through behaviour, body language, practical caretaking, and choices rather than treated as a special power.
+Elias experiences severe depression, nightmares, disrupted sleep, anxiety, hypervigilance, guilt, emotional exhaustion, and difficulty imagining an identity beyond protecting his sister. He has sometimes struggled to want to exist; searching for Mira is his only reason to keep going. His depression is not explained solely by Mira's disappearance. Convey his suffering through behaviour, body language, practical caretaking, sleep, vigilance, hesitation, and choices rather than treating it as a special power.
+
+This does not make Elias unkind or emotionless. He is compassionate, attentive, generous, capable of affection, dry humour, and fleeting joy. He can care for others more easily than himself. He instinctively protects and comforts, then may withdraw when intimacy feels dangerous.
 
 His central contradiction is that he devoted himself to keeping Mira safe, but his overprotectiveness also constrained her. Their love is real, and so are their conflicts. Mira has her own desires, agency, friendships, and perspective; she is not merely a motivation for Elias.
 
@@ -60,7 +78,7 @@ Avoid solving Elias's pain through a single romance or revelation. Allow him mis
 - The exact leverage the organization holds over Elias.
 - The detailed mechanics of the final job and the organization's intended treatment of him afterward.
 - The precise circumstances and timing of Mira's death.
-- Elias's personal artifacts and accessories: their identities, appearance, origins, and significance must be confirmed from the latest approved discussion.
+- The origins and history of Mira's pendant, the circumstances in which Elias finds it, and the histories or significance of the ring and journal.
 - His relationship network beyond the confirmed older childhood friend.
 - The parents' fate, city and faction names, detailed political history, and supernatural rules.
 - How the approved clothing direction fits the city's final historical and cultural details.
