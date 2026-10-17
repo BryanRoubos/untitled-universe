@@ -32,3 +32,5 @@ Earlier entries reflect the status at the time. Mira's name and age were later c
 
 ## Rule for future entries
 Append: date, decision, rationale, who approved it, affected files, and what remains unresolved. Do not silently rewrite a historical decision.
+
+| 2026-10-17 | Creator confirmed Mira died at 15; Elias was ~21 then and is ~23 at the story's start (~2 years later). Present-day search with the audience believing Mira alive; interwoven past scenes including Mira's own perspective; initially trusted but sometimes unreliable recollections, subtle escalating clues and retrospective revelation. Rooftop truth: siblings leave together; later Elias remembers otherwise. Exact death circumstances, mechanisms and scene details remain open. Supersedes 17-at-disappearance and uncertain-fate entries. | Confirmed by creator; open details remain concepts |
