@@ -15,7 +15,7 @@ Concept art should resemble actual human-made pencil studies, sketchbook work or
 - [Simple side/front pencil exploration](../assets/images/Graphite%20Portrait%20Studies%20on%20Aged%20Paper.png).
 - [Multi-angle pencil study sheet](../assets/images/Graphite%20Portrait%20Study%20Sheet.png).
 - Both are now displayed in the public concept book's sister section, with click-to-zoom support.
-- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, clothing or story implications have been canonized. Mira's name and age (17 at disappearance) are confirmed.
+- Direction explored: freckled youthful face, loosely tied dark hair, natural expressions and deliberately rough pencil-on-paper lines. The creator repeatedly requested a **simpler, more genuinely sketched appearance** comparable to Elias's original studies, without written labels on the artwork. Keep these studies exploratory; no final facial design, clothing or story implications have been canonized. Mira’s name is confirmed; she died at 15. The older note saying 17 at disappearance is superseded.
 - **Next step:** obtain explicit approval of her face before creating separate clothing or colored studies.
 
 ## Elias — current approvals (15 October 2026)
@@ -38,7 +38,7 @@ The creator favors the possibility that the circular silver pendant belonged to 
 - [Gothic Undercity Beneath the Viaducts](../assets/images/Gothic%20Undercity%20Beneath%20the%20Viaducts.png): chosen atmospheric color concept of an enormous, old, poor yet inhabited undercity.
 - Both are featured in the website's **Beneath the great arches** section, using the existing click-to-zoom viewer.
 - Approved **visual direction**: huge layered arches, monumental masonry, stacked improvised housing, bustling markets, vulnerable children, cool light from above and warmer human-scale lights below. Avoid glossy photorealism for exploratory sketches; use spare construction lines and rough Photoshop-style painted studies.
-- Not yet canon: city layout, whether every district lies underground, architecture's origin, civic institutions, neighborhood name, or events of the sister's disappearance.
+- Not yet canon: city layout, whether every district lies underground, architecture's origin, civic institutions, neighborhood name, or the exact scene details surrounding Mira’s capture and death. Her capture during the uprising and later death are confirmed story canon.
 
 ## Hidden children's shelter — approved exploration (15 October 2026)
 - [Hidden Children’s Shelter Storyboard](../assets/images/Hidden%20Children%E2%80%99s%20Shelter%20Storyboard.png): grayscale architectural blockout showing the exterior context, concealed approach, passage, chamber, floor plan and section. Uploaded by the creator and displayed in the website's dedicated **A place only they knew** section.

@@ -1,9 +1,8 @@
-> **Canon update — 17 October 2026:** Mira Varek died at age 15. Elias was approximately 21 then and is approximately 23 at the start of the main story, around two years later. The audience initially believes Mira is alive and follows Elias's search. The narrative opens in the present and interweaves earlier scenes, including Mira's independent perspective. Elias's recollections can be unreliable; subtle, fair clues accumulate toward a revelation that recontextualizes earlier scenes. The actual circumstances of Mira's death, psychological mechanism, exact clues, and dialogue remain open. The rooftop birthday event and her death are separate: in reality the siblings leave the rooftop together, while Elias later recalls her leaving alone. Earlier contradictory claims in this file are superseded by this update.
-
+> **Canon summary — 17 October 2026:** Mira Varek died at age 15, about two years before the present story. Elias was about 21 then and is about 23 now. Elias begins searching because he believes she may still be alive; the audience learns the truth with him near the ending. The siblings argue on Mira’s birthday rooftop and leave together. The proposed idea that Elias later remembers her leaving alone is retired and is not canon. Repeated scenes may gain new context, but unreliable memories are only a possible future concept, not current canon. Mira was captured with other civilians during the uprising, survived the initial chaos, and died later; the exact circumstances and timing remain open.
 # Mira Varek — Elias's Younger Sister
 
 **Name:** Mira Varek — confirmed  
-**Age:** 17 — confirmed (at the time of her disappearance)  
+**Age:** Died at 15, about two years before the present story.  
 **Status:** Name and age confirmed; core relationship dynamic confirmed; independent life to be developed
 
 ## Facial concept studies — archived (15 October 2026)
@@ -23,10 +22,10 @@ She and Elias grew up without dependable parental care (precise circumstances op
 She repeatedly invites him into life beyond constant vigilance. He loves her fiercely, but his fear can become controlling. Their bond should include jokes, ordinary arguments, warmth and frustration, not just tragedy.
 
 ## Disappearance — working premise
-After a serious argument, she leaves. For once Elias does not follow. A violent incident affects her friends or neighborhood; she vanishes. Whether she survived, was taken, or is connected to supernatural events is **open**.
+On her birthday, Mira and Elias argue about his protectiveness but leave the rooftop together. Later, during the uprising Elias unknowingly helps enable, Mira is captured with other civilians. She survives the initial chaos and dies later. The exact circumstances and timing of her death remain open.
 
 ## Important writing rule
 Develop her personal aspirations, friendships, values, fears and agency before treating the disappearance as a plot mechanism.
 
 ## Open
-Final appearance, individual friendships, talents, goals, what she wanted from the rooftop, and her fate. Her parents' whereabouts and fate, the argument, the circumstances of her disappearance and its aftermath also remain open.
+Final appearance, individual friendships, talents, goals, and what she wanted from the rooftop remain open. Mira’s death is confirmed; its exact circumstances and timing remain open. Her parents’ whereabouts and fate are unknown.
