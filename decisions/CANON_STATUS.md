@@ -1,3 +1,7 @@
+## Visual style approval — 17 October 2026
+
+The creator selected the existing journal spread and *The Wayfarer’s Journal at Dusk* as **approved master art-style references** for future imagery. This is an **art-direction approval**, not approval of their depicted dates, text, places or events. Keep original artwork while testing painterly remakes. See `art/ART_DIRECTION.md`.
+
 ## Website and scene-art synchronization — 17 October 2026
 
 - **Kareth: confirmed month name**, represented in Chapter I's everyday-life worldbuilding. Its place in the year, season, duration and history remain open; “17th of Kareth” is only an example date.
