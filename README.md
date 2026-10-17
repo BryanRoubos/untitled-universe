@@ -60,3 +60,9 @@ The authoritative, more detailed record is [Canon Status](decisions/CANON_STATUS
 New artwork belongs in `assets/images/`. Update its links in the website and Markdown documents, record approvals in [Canon Status](decisions/CANON_STATUS.md), and preserve decision history in [Decision Log](decisions/DECISION_LOG.md). Follow [Creative Rules](CREATIVE_RULES.md): the creator decides canon, characters stay nuanced, and originality matters more than imitation.
 
 _Last reviewed: 16 October 2026._
+
+## Approved atmospheric city concept — 17 October 2026
+
+Reference: [Lone Adventurer Overlooking the Twilight Citadel](Lone%20Adventurer%20Overlooking%20the%20Twilight%20Citadel.png) (concept art, not a final map). Creator-approved **visual direction**: a massive connected vertical city with dramatic sunlight on the upper districts, much dimmer lower neighborhoods, damp and dirty masonry, moss, weathering, grime and pockets of warm artificial light. The contrast is beautiful from afar and unpleasant up close. The seated figure's filthy rooftop is a strong material reference.
+
+**Not canonized from the image:** exact buildings, bridges, proportions, spatial openness, population density or an empty undercity. The concept currently feels too open and lacks people. Future street-level studies should show cramped, densely layered, inhabited lower streets and **lively markets**, traders, crowds, stalls and areas with very little visible sky. Preserve the city's life as well as its neglect.
