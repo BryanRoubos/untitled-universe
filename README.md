@@ -21,7 +21,7 @@ The monumental, sunlit upper districts and the inhabited lower districts form **
 
 | Element | Current status |
 | --- | --- |
-| First game title and gold title artwork | **Approved** |
+| Project title and gold title artwork | **Approved** |
 | Wider universe name | **Open** |
 | Elias's emotional core, Concept 03 face and clothing direction | **Confirmed / approved** |
 | Mira's name and age (15 at death) | **Confirmed** |
